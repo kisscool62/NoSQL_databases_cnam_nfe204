@@ -1,0 +1,51 @@
+{
+"_id": "movie:57",
+"title": "Jackie Brown",
+"year": 1997,
+"genre": "crime",
+"summary": "Jackie Brown, hôtesse de l'air, arrondit ses fins de mois en convoyant de l'argent liquide pour le compte d'un trafiquant d'armes, Ordell Robbie. Un jour, un agent federal et un policier de Los Angeles la cueillent à l'aéroport. Ils comptent sur elle pour faire tomber le trafiquant. Jackie échafaude alors un plan audacieux pour doubler tout le monde lors d'un prochain transfert qui porte sur la modeste somme de cinq cent mille dollars. Mais il lui faudra compter avec les complices d'Ordell, qui ont des méthodes plutôt expéditives.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:37",
+	"last_name": "Tarantino",
+	"first_name": "Quentin",
+	"birth_date": "1963"	
+	},
+"actors": [
+	{
+	"_id": "artist:167",
+	"first_name": "Robert",
+	"last_name": "De Niro",
+	"birth_date": "1943",
+	"role": "Luis Gara"	
+	},
+	{
+	"_id": "artist:168",
+	"first_name": "Pam",
+	"last_name": "Grier",
+	"birth_date": "1949",
+	"role": "Jackie Brown"	
+	},
+	{
+	"_id": "artist:169",
+	"first_name": "Bridget",
+	"last_name": "Fonda",
+	"birth_date": "1964",
+	"role": "Melanie"	
+	},
+	{
+	"_id": "artist:170",
+	"first_name": "Michael",
+	"last_name": "Keaton",
+	"birth_date": "1951",
+	"role": "Ray Nicolette"	
+	},
+	{
+	"_id": "artist:212",
+	"first_name": "Samuel",
+	"last_name": "Jackson",
+	"birth_date": "1948",
+	"role": "Ordell Robbie"	
+	}
+	]
+}

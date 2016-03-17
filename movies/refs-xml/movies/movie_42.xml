@@ -1,0 +1,24 @@
+  <movie>
+    <title>Jeanne d'Arc</title>
+    <year>1999</year>
+    <genre>Guerre</genre>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='111' >
+	</director>
+	<actor  id='80' >
+	</actor>
+	<actor  id='112' >
+	    <role>Jeanne d'Arc</role>
+	</actor>
+	<actor  id='113' >
+	    <role>Yolande d'Aragon</role>
+	</actor>
+	<actor  id='114' >
+	    <role>Charles VII</role>
+	</actor>
+	<actor  id='115' >
+	    <role>Dunois</role>
+	</actor>
+
+  </movie>

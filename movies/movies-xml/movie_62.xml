@@ -1,0 +1,25 @@
+  <movie>
+    <title>Stalingrad</title>
+    <year>2001</year>
+    <genre>drama</genre>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='34' >
+	    <last_name>Annaud</last_name>
+	    <first_name>Jean-Jacques</first_name>
+	    <birth_date>1943</birth_date>
+	</director>
+	<actor  id='182' >
+	    <first_name>Marlon</first_name>
+	    <last_name>Brando</last_name>
+	    <birth_date>1924</birth_date>
+	    <role>Vassili Zaïtzev</role>
+	</actor>
+	<actor  id='183' >
+	    <first_name>Diane</first_name>
+	    <last_name>Keaton</last_name>
+	    <birth_date>1946</birth_date>
+	    <role>major König</role>
+	</actor>
+
+  </movie>

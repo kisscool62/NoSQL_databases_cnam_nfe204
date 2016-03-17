@@ -1,0 +1,14 @@
+  <movie>
+    <title>Bad Lieutenant</title>
+    <year>1992</year>
+    <genre>drama</genre>
+    <summary>La descente aux enfers d'un flic pourri qui enquete sur le viol d'une jolie religieuse.</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='122' >
+	</director>
+	<actor  id='98' >
+	    <role>Le lieutenant</role>
+	</actor>
+
+  </movie>

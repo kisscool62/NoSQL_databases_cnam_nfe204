@@ -1,0 +1,35 @@
+  <movie>
+    <title>Les pleins pouvoirs</title>
+    <year>1997</year>
+    <genre>crime</genre>
+    <summary>Luther Whitney est l'as des cambrioleurs. Occupé à vider le coffre de l'influent Walter Sullivan,
+	 il est témoin d'un meurtre sadique impliquant le Président des Etats-Unis et les services
+	 secrets. Soupçonné par la police d'en être l'auteur, il se retrouve également traqué par les
+	 tueurs, qui ont compris qu'ils ont été observés.</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='20' >
+	    <last_name>Eastwood</last_name>
+	    <first_name>Clint</first_name>
+	    <birth_date>1930</birth_date>
+	</director>
+	<actor  id='20' >
+	    <first_name>Clint</first_name>
+	    <last_name>Eastwood</last_name>
+	    <birth_date>1930</birth_date>
+	    <role>Luther Whitney</role>
+	</actor>
+	<actor  id='21' >
+	    <first_name>Gene</first_name>
+	    <last_name>Hackman</last_name>
+	    <birth_date>1930</birth_date>
+	    <role>Le président Richmond</role>
+	</actor>
+	<actor  id='69' >
+	    <first_name>Ed</first_name>
+	    <last_name>Harris</last_name>
+	    <birth_date>1950</birth_date>
+	    <role>Seth Frank</role>
+	</actor>
+
+  </movie>

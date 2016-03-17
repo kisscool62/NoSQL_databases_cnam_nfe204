@@ -1,0 +1,43 @@
+  <movie>
+    <title>Batman begins</title>
+    <year>2005</year>
+    <genre>Thriller</genre>
+    <summary>Comment un homme seul peut-il changer le monde ? Telle est la question qui hante Bruce Wayne depuis cette nuit tragique où ses parents furent abattus sous ses yeux, dans une ruelle de Gotham City. Torturé par un profond sentiment de colère et de culpabilité, le jeune héritier de cette richissime famille fuit Gotham pour un long et discret voyage à travers le monde. Le but de ses pérégrinations : sublimer sa soif de vengeance en trouvant de nouveaux moyens de lutter contre l'injustice.</summary>
+    <country>USA</country>
+	<director  id='266' >
+	    <last_name>Nolan</last_name>
+	    <first_name>Christopher</first_name>
+	    <birth_date>1970</birth_date>
+	</director>
+	<actor  id='22' >
+	    <first_name>Morgan</first_name>
+	    <last_name>Freeman</last_name>
+	    <birth_date>1937</birth_date>
+	    <role>Lucius Fox </role>
+	</actor>
+	<actor  id='116' >
+	    <first_name>Gary</first_name>
+	    <last_name>Oldman</last_name>
+	    <birth_date>1958</birth_date>
+	    <role> Jim Gordon </role>
+	</actor>
+	<actor  id='269' >
+	    <first_name>Michael</first_name>
+	    <last_name>Caine</last_name>
+	    <birth_date>1933</birth_date>
+	    <role>Alfred</role>
+	</actor>
+	<actor  id='274' >
+	    <first_name>Christian</first_name>
+	    <last_name>Bale</last_name>
+	    <birth_date>1974</birth_date>
+	    <role> Bruce Wayne / Batman </role>
+	</actor>
+	<actor  id='275' >
+	    <first_name>Liam</first_name>
+	    <last_name>Neeson</last_name>
+	    <birth_date>1952</birth_date>
+	    <role>Ducard</role>
+	</actor>
+
+  </movie>

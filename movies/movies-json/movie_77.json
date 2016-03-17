@@ -1,0 +1,30 @@
+{
+"_id": "movie:77",
+"title": "Fargo",
+"year": 1996,
+"genre": "crime",
+"summary": "En plein hiver, Jerry Lundegaard, un vendeur de voitures d'occasion à Minneapolis, a besoin d'un prêt de Wade Gustafson, son riche beau-père. Endetté jusqu'au cou, il fait appel à Carl Showalter et Gaear Grimsrud, deux malfrats, pour qu'ils enlèvent son épouse Jean. Il pourra ainsi partager avec les ravisseurs la rançon que Wade paiera pour la libération de sa fille. Mais les choses ne vont pas se dérouler comme prévu. ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:251",
+	"last_name": "Coen",
+	"first_name": "Ethan",
+	"birth_date": "1957"	
+	},
+"actors": [
+	{
+	"_id": "artist:217",
+	"first_name": "Steve",
+	"last_name": "Buscemi",
+	"birth_date": "1957",
+	"role": "Carl Showalter"	
+	},
+	{
+	"_id": "artist:254",
+	"first_name": "William",
+	"last_name": "Macy",
+	"birth_date": "1950",
+	"role": " Jerry Lundegaard "	
+	}
+	]
+}

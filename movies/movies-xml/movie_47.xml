@@ -1,0 +1,46 @@
+  <movie>
+    <title>Spider-Man</title>
+    <year>2002</year>
+    <genre>Action</genre>
+    <summary>Orphelin, Peter Parker est élevé par sa tante May et son oncle Ben dans le quartier Queens de New York. Tout en poursuivant ses études à l'université, il trouve un emploi de photographe au journal Daily Bugle. Il partage son appartement avec Harry Osborn, son meilleur ami, et rêve de séduire la belle Mary Jane.
+	Cependant, après avoir été mordu par une araignée génétiquement modifiée, Peter voit son agilité et sa force s'accroître et se découvre des pouvoirs surnaturels. Devenu Spider-Man, il décide d'utiliser ses nouvelles capacités au service du bien.
+	Au même moment, le père de Harry, le richissime industriel Norman Osborn, est victime d'un accident chimique qui a démesurément augmenté ses facultés intellectuelles et sa force, mais l'a rendu fou. Il est devenu le Bouffon Vert, une créature démoniaque qui menace la ville. Entre lui et Spider-Man, une lutte sans merci s'engage.</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='187' >
+	    <last_name>Raimi</last_name>
+	    <first_name>Sam</first_name>
+	    <birth_date>1959</birth_date>
+	</director>
+	<actor  id='124' >
+	    <first_name>Wesley</first_name>
+	    <last_name>Snipes</last_name>
+	    <birth_date>1962</birth_date>
+	    <role>Spider-Man</role>
+	</actor>
+	<actor  id='125' >
+	    <first_name>Annabella</first_name>
+	    <last_name>Sciora</last_name>
+	    <birth_date>1964</birth_date>
+	    <role>Norman Osborn</role>
+	</actor>
+	<actor  id='126' >
+	    <first_name>Isabella</first_name>
+	    <last_name>Rosselini</last_name>
+	    <birth_date>1952</birth_date>
+	    <role>Mary Jane Watson</role>
+	</actor>
+	<actor  id='127' >
+	    <first_name>Vincent</first_name>
+	    <last_name>Gallo</last_name>
+	    <birth_date>1961</birth_date>
+	    <role>Oncle Ben</role>
+	</actor>
+	<actor  id='128' >
+	    <first_name>Lars</first_name>
+	    <last_name>von Trier</last_name>
+	    <birth_date>1956</birth_date>
+	    <role>Tante May</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,19 @@
+  <movie>
+    <title>Interstellar</title>
+    <year>2014</year>
+    <genre>Science-fiction</genre>
+    <summary>Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astrolast_nameiques dans un voyage interstellaire.</summary>
+    <country>USA</country>
+	<director  id='266' >
+	</director>
+	<actor  id='267' >
+	    <role>Cooper</role>
+	</actor>
+	<actor  id='268' >
+	    <role> 	 Brand </role>
+	</actor>
+	<actor  id='269' >
+	    <role>Professor Brand</role>
+	</actor>
+
+  </movie>

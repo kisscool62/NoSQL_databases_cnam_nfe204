@@ -1,0 +1,25 @@
+  <movie>
+    <title>Fargo</title>
+    <year>1996</year>
+    <genre>crime</genre>
+    <summary>En plein hiver, Jerry Lundegaard, un vendeur de voitures d'occasion à Minneapolis, a besoin d'un prêt de Wade Gustafson, son riche beau-père. Endetté jusqu'au cou, il fait appel à Carl Showalter et Gaear Grimsrud, deux malfrats, pour qu'ils enlèvent son épouse Jean. Il pourra ainsi partager avec les ravisseurs la rançon que Wade paiera pour la libération de sa fille. Mais les choses ne vont pas se dérouler comme prévu. </summary>
+    <country>USA</country>
+	<director  id='251' >
+	    <last_name>Coen</last_name>
+	    <first_name>Ethan</first_name>
+	    <birth_date>1957</birth_date>
+	</director>
+	<actor  id='217' >
+	    <first_name>Steve</first_name>
+	    <last_name>Buscemi</last_name>
+	    <birth_date>1957</birth_date>
+	    <role>Carl Showalter</role>
+	</actor>
+	<actor  id='254' >
+	    <first_name>William</first_name>
+	    <last_name>Macy</last_name>
+	    <birth_date>1950</birth_date>
+	    <role> Jerry Lundegaard </role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,32 @@
+  <movie>
+    <title>De bruit et de fureur</title>
+    <year>1988</year>
+    <genre>drama</genre>
+    <summary>L'histoire de Bruno, enfant attardé des banlieues et des H.L.M., plongé dans la violence de son milieu, et dont la vie va se consumer comme une étoile filante.</summary>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='138' >
+	    <last_name>Chabrol</last_name>
+	    <first_name>Claude</first_name>
+	    <birth_date>1930</birth_date>
+	</director>
+	<actor  id='139' >
+	    <first_name>Isabelle</first_name>
+	    <last_name>Huppert</last_name>
+	    <birth_date>1953</birth_date>
+	    <role>Marcel</role>
+	</actor>
+	<actor  id='140' >
+	    <first_name>Anna</first_name>
+	    <last_name>Mouglalis</last_name>
+	    <birth_date>1978</birth_date>
+	    <role>Enseignante</role>
+	</actor>
+	<actor  id='141' >
+	    <first_name>Kevin</first_name>
+	    <last_name>Costner</last_name>
+	    <birth_date>1955</birth_date>
+	    <role>Bruno</role>
+	</actor>
+
+  </movie>

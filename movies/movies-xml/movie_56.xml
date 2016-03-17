@@ -1,0 +1,41 @@
+  <movie>
+    <title>Le parrain III</title>
+    <year>1990</year>
+    <genre>drama</genre>
+    <summary>Atteignant la soixantaine, Michael Corleone désire à la fois renouer avec les siens et se réhabiliter aux yeux de la société, surtout de l'Eglise. Il arrivera presque a ses fins, mais sa vie passée et ses anciens ennemis le rattraperont plus vite.
+	
+	Michael Corleone est fatigué. Il veut prendre ses distances avec les activités mafieuses de sa famille. Il veut convertir ces activités en affaires légales. Kay, son ex-femme, lui fait même accepter que leur fils devienne un chanteur d'opéra et ne reprenne pas les activités familiales.
+	Pendant ce temps, la fille de Michael, Mary, et son neveu, le fils de Sonny, Vincent, nouent une idylle qui n'est pas la bienvenue dans la famille.
+	Il décide d'aider le Vatican à renflouer ses caisses et reçoit en échange le contrôle d'une entreprise immobilière leur appartenant. Attisant la jalousie de ses pairs, Michael échappe de justesse à un attentat commis par l'un d'eux. Vincent se propose alors pour reprendre les affaires de la famille en main.</summary>
+    <country>USA</country>
+	<director  id='181' >
+	    <last_name>Coppola</last_name>
+	    <first_name>Francis Ford</first_name>
+	    <birth_date>1940</birth_date>
+	</director>
+	<actor  id='1' >
+	    <first_name>Sofia</first_name>
+	    <last_name>Coppola</last_name>
+	    <birth_date>1971</birth_date>
+	    <role>Mary Corleone</role>
+	</actor>
+	<actor  id='176' >
+	    <first_name>Al</first_name>
+	    <last_name>Pacino</last_name>
+	    <birth_date>1940</birth_date>
+	    <role>Michael Corleone</role>
+	</actor>
+	<actor  id='183' >
+	    <first_name>Diane</first_name>
+	    <last_name>Keaton</last_name>
+	    <birth_date>1946</birth_date>
+	    <role>Kay Adams</role>
+	</actor>
+	<actor  id='186' >
+	    <first_name>Andy</first_name>
+	    <last_name>Garcia</last_name>
+	    <birth_date>1956</birth_date>
+	    <role>Vincent Mancini</role>
+	</actor>
+
+  </movie>

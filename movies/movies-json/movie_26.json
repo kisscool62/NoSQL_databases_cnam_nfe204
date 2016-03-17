@@ -1,0 +1,37 @@
+{
+"_id": "movie:26",
+"title": "Les pleins pouvoirs",
+"year": 1997,
+"genre": "crime",
+"summary": "Luther Whitney est l'as des cambrioleurs. Occupé à vider le coffre de l'influent Walter Sullivan, il est témoin d'un meurtre sadique impliquant le Président des Etats-Unis et les services secrets. Soupçonné par la police d'en être l'auteur, il se retrouve également traqué par les tueurs, qui ont compris qu'ils ont été observés.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:20",
+	"last_name": "Eastwood",
+	"first_name": "Clint",
+	"birth_date": "1930"	
+	},
+"actors": [
+	{
+	"_id": "artist:20",
+	"first_name": "Clint",
+	"last_name": "Eastwood",
+	"birth_date": "1930",
+	"role": "Luther Whitney"	
+	},
+	{
+	"_id": "artist:21",
+	"first_name": "Gene",
+	"last_name": "Hackman",
+	"birth_date": "1930",
+	"role": "Le président Richmond"	
+	},
+	{
+	"_id": "artist:69",
+	"first_name": "Ed",
+	"last_name": "Harris",
+	"birth_date": "1950",
+	"role": "Seth Frank"	
+	}
+	]
+}

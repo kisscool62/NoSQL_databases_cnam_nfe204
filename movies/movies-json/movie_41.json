@@ -1,0 +1,37 @@
+{
+"_id": "movie:41",
+"title": "La mort aux trousses",
+"year": 1959,
+"genre": "Suspense",
+"summary": "Roger Thornhill, publiciste, est pris dans le hall de son hôtel pour un certain Kaplan, un espion. Deux hommes tentent de le tuer et quand il retrouve l'un de ses agresseurs, celui-ci est assassiné devant ses yeux. Pris pour un meurtrier, il est obligé de fuir vers Chicago... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:3",
+	"last_name": "Hitchcock",
+	"first_name": "Alfred",
+	"birth_date": "1899"	
+	},
+"actors": [
+	{
+	"_id": "artist:105",
+	"first_name": "Cary",
+	"last_name": "Grant",
+	"birth_date": "1904",
+	"role": "Roger O. Thornhill"	
+	},
+	{
+	"_id": "artist:106",
+	"first_name": "Eva Marie",
+	"last_name": "Saint",
+	"birth_date": "1924",
+	"role": "Eve Kendall"	
+	},
+	{
+	"_id": "artist:107",
+	"first_name": "James",
+	"last_name": "Mason",
+	"birth_date": "1909",
+	"role": "Philipp Vandamm"	
+	}
+	]
+}

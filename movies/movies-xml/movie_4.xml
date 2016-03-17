@@ -1,0 +1,13 @@
+  <movie>
+    <title>Sacrifice</title>
+    <year>1986</year>
+    <genre>drama</genre>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='9' >
+	    <last_name>Tarkovski</last_name>
+	    <first_name>Andrei</first_name>
+	    <birth_date>1932</birth_date>
+	</director>
+
+  </movie>

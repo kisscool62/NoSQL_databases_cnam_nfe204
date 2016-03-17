@@ -1,0 +1,25 @@
+{
+    "_id": "movie:45",
+    "title": "Nikita",
+    "year": "1990",
+    "genre": "Thriller",
+    "summary": "Nikita, droguée et violente, est prise en mains par des psychiatres qui la rééduquent, la conditionnent, afin d'en faire une tueuse à la botte des Services Secrets. Plus tard, réalisant ce qu'elle est devenue, un pion sans vie privée que l'on manipule, elle tente d'échapper à ses commanditaires. ",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:111"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:115",
+	    "role": "Bob"	
+	},
+	{
+	    "_id": "artist:119",
+	    "role": "Nikita"	
+	},
+	{
+	    "_id": "artist:120",
+	    "role": "Marco"	
+	}
+	]
+}

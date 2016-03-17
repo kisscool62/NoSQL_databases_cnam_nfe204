@@ -1,0 +1,36 @@
+  <movie>
+    <title>Top Gun</title>
+    <year>1986</year>
+    <genre>Action</genre>
+    <summary>
+	 Pilote de chasse émérite mais casse-cou Maverick Mitchell est admis à Top Gun, l'école de
+	 l'élite de l'aéronavale. Son manque de prudence lui attire les foudres de ses supérieurs et la
+	 haine de certains coéquipiers. Il perd subitement la foi et confiance en lui quand son ami de
+	 toujours meurt en vol et qu'il s'en croit responsable... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='81' >
+	    <last_name>Scott</last_name>
+	    <first_name>Tony</first_name>
+	    <birth_date>1944</birth_date>
+	</director>
+	<actor  id='53' >
+	    <first_name>Val</first_name>
+	    <last_name>Kilmer</last_name>
+	    <birth_date>1959</birth_date>
+	    <role>Iceman</role>
+	</actor>
+	<actor  id='65' >
+	    <first_name>Tom</first_name>
+	    <last_name>Cruise</last_name>
+	    <birth_date>1962</birth_date>
+	    <role>Lt. Pete 'Maverick' Mitchell</role>
+	</actor>
+	<actor  id='82' >
+	    <first_name>Kelly</first_name>
+	    <last_name>McGillis</last_name>
+	    <birth_date>1957</birth_date>
+	    <role>Charlotte Blackwood</role>
+	</actor>
+
+  </movie>

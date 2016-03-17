@@ -1,0 +1,51 @@
+{
+"_id": "movie:31",
+"title": "Les bronzés font du ski",
+"year": 1979,
+"genre": "Comédie",
+"summary": "Apres avoir passe des vacances d'ete ensemble, Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude et Christiane se retrouvent aux sports d'hiver. Tous ont leurs problemes de coeur ou d'argent, mais il faut bien vivre avec. Avant de se separer, se perdre dans la montagne leur permet de gouter aux joies de la \"vraie vie\" paysanne... ",
+"country": "FR",
+"director": 	{
+	"_id": "artist:83",
+	"last_name": "Leconte",
+	"first_name": "Patrice",
+	"birth_date": "1947"	
+	},
+"actors": [
+	{
+	"_id": "artist:75",
+	"first_name": "Josiane",
+	"last_name": "Balasko",
+	"birth_date": "1950",
+	"role": "Nathalie Morin"	
+	},
+	{
+	"_id": "artist:76",
+	"first_name": "Dominique",
+	"last_name": "Lavanant",
+	"birth_date": "1944",
+	"role": "Christiane"	
+	},
+	{
+	"_id": "artist:84",
+	"first_name": "Michel",
+	"last_name": "Blanc",
+	"birth_date": "1952",
+	"role": "Jean-Claude Dus"	
+	},
+	{
+	"_id": "artist:85",
+	"first_name": "Christian",
+	"last_name": "Clavier",
+	"birth_date": "1952",
+	"role": "Jérôme"	
+	},
+	{
+	"_id": "artist:86",
+	"first_name": "Thierry",
+	"last_name": "Lhermite",
+	"birth_date": "1952",
+	"role": "Popeye"	
+	}
+	]
+}

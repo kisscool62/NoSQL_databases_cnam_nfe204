@@ -1,0 +1,30 @@
+{
+"_id": "movie:27",
+"title": "Le gendarme et les extra-terrestres",
+"year": 1978,
+"genre": "Comédie",
+"summary": "En anglais: Gendarme and the Creatures from Outer Space !",
+"country": "FR",
+"director": 	{
+	"_id": "artist:71",
+	"last_name": "Girault",
+	"first_name": "Jean",
+	"birth_date": "1924"	
+	},
+"actors": [
+	{
+	"_id": "artist:72",
+	"first_name": "Louis",
+	"last_name": "De Funs",
+	"birth_date": "1914",
+	"role": "Inspecteur Cruchot"	
+	},
+	{
+	"_id": "artist:73",
+	"first_name": "Michel",
+	"last_name": "Galabru",
+	"birth_date": "1922",
+	"role": "Adjudant Gerber"	
+	}
+	]
+}

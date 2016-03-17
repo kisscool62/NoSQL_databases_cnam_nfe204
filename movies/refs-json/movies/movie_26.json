@@ -1,0 +1,25 @@
+{
+    "_id": "movie:26",
+    "title": "Les pleins pouvoirs",
+    "year": "1997",
+    "genre": "crime",
+    "summary": "Luther Whitney est l'as des cambrioleurs. Occupé à vider le coffre de l'influent Walter Sullivan, il est témoin d'un meurtre sadique impliquant le Président des Etats-Unis et les services secrets. Soupçonné par la police d'en être l'auteur, il se retrouve également traqué par les tueurs, qui ont compris qu'ils ont été observés.",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:20"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:20",
+	    "role": "Luther Whitney"	
+	},
+	{
+	    "_id": "artist:21",
+	    "role": "Le président Richmond"	
+	},
+	{
+	    "_id": "artist:69",
+	    "role": "Seth Frank"	
+	}
+	]
+}

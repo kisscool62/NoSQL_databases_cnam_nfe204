@@ -1,0 +1,22 @@
+  <movie>
+    <title>Alien</title>
+    <year>1979</year>
+    <genre>Science-fiction</genre>
+    <summary>Près d'un vaisseau spatial échoué sur une lointaine planète, des Terriens en mission découvrent
+	 de bien étranges &quot;oeufs&quot;. Ils en ramènent un à bord, ignorant qu'ils viennent d'introduire parmi
+	 eux un huitième passager particulièrement féroce et meurtrier. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='4' >
+	    <last_name>Scott</last_name>
+	    <first_name>Ridley</first_name>
+	    <birth_date>1937</birth_date>
+	</director>
+	<actor  id='5' >
+	    <first_name>Sigourney</first_name>
+	    <last_name>Weaver</last_name>
+	    <birth_date>1949</birth_date>
+	    <role>Ripley</role>
+	</actor>
+
+  </movie>

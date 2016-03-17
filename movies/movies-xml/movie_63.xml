@@ -1,0 +1,32 @@
+  <movie>
+    <title>Million Dollar Baby</title>
+    <year>2005</year>
+    <genre>drama</genre>
+    <summary>Une histoire d'amour tragique et platonique entre une boxeuse et un vieil entraîneur de trente ans son aîné.</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='20' >
+	    <last_name>Eastwood</last_name>
+	    <first_name>Clint</first_name>
+	    <birth_date>1930</birth_date>
+	</director>
+	<actor  id='20' >
+	    <first_name>Clint</first_name>
+	    <last_name>Eastwood</last_name>
+	    <birth_date>1930</birth_date>
+	    <role>Frankie Dunn</role>
+	</actor>
+	<actor  id='22' >
+	    <first_name>Morgan</first_name>
+	    <last_name>Freeman</last_name>
+	    <birth_date>1937</birth_date>
+	    <role>Eddie Scrap-Iron Dupris</role>
+	</actor>
+	<actor  id='224' >
+	    <first_name>Hillary</first_name>
+	    <last_name>Swank</last_name>
+	    <birth_date>1974</birth_date>
+	    <role>Maggie Fitzerald</role>
+	</actor>
+
+  </movie>

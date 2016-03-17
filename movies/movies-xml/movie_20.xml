@@ -1,0 +1,35 @@
+  <movie>
+    <title>Les dents de la mer</title>
+    <year>1975</year>
+    <genre>Horreur</genre>
+    <summary>Dans la station balnéaire d'Amityville, un requin géant frappe à plusieurs reprises. Soucieux
+	 d'une bonne saison touristique, le maire interdit au sherif Brody de fermer les plages. Une prime
+	 est offerte et le célèbre chasseur de requin Quint se lance avec Brody et l'ichtyologue Hooper à
+	 la poursuite du monstre... </summary>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='45' >
+	    <last_name>Spielberg</last_name>
+	    <first_name>Steven</first_name>
+	    <birth_date>1946</birth_date>
+	</director>
+	<actor  id='46' >
+	    <first_name>Roy</first_name>
+	    <last_name>Scheider</last_name>
+	    <birth_date>1932</birth_date>
+	    <role>Martin Brody</role>
+	</actor>
+	<actor  id='47' >
+	    <first_name>Robert</first_name>
+	    <last_name>Shaw</last_name>
+	    <birth_date>1927</birth_date>
+	    <role>Quint</role>
+	</actor>
+	<actor  id='48' >
+	    <first_name>Richard</first_name>
+	    <last_name>Dreyfus</last_name>
+	    <birth_date>1947</birth_date>
+	    <role>Matt Hooper</role>
+	</actor>
+
+  </movie>

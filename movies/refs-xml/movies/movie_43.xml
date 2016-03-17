@@ -1,0 +1,24 @@
+  <movie>
+    <title>Le cinquième élément</title>
+    <year>1997</year>
+    <genre>Science-fiction</genre>
+    <summary>Au XXIIIème siècle, dans un univers étrange et coloré, où tout espoir de survie est impossible sans la
+	 découverte du Cinquième Elément, un héros peu ordinaire affronte le mal pour sauver l'humanité. </summary>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='111' >
+	</director>
+	<actor  id='27' >
+	    <role>Major Korben Dalla</role>
+	</actor>
+	<actor  id='112' >
+	    <role>Leeloo</role>
+	</actor>
+	<actor  id='116' >
+	    <role>Jean-Baptiste Emmanuel Zorg</role>
+	</actor>
+	<actor  id='117' >
+	    <role>Vito Cornelius</role>
+	</actor>
+
+  </movie>

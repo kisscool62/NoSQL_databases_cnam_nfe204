@@ -1,0 +1,24 @@
+  <movie>
+    <title>Marie Antoinette</title>
+    <year>2006</year>
+    <genre>drama</genre>
+    <summary>Based on Antonia Fraser's book about the ill-fated 
+		Archduchess of Austria and later Queen of France, 
+		'Marie Antoinette' tells the story of the most 
+		misunderstood and abused woman in history, from 
+		her birth in Imperial Austria to her later life in 
+		France. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='1' >
+	    <last_name>Coppola</last_name>
+	    <first_name>Sofia</first_name>
+	    <birth_date>1971</birth_date>
+	</director>
+	<actor  id='2' >
+	    <first_name>Kirsten</first_name>
+	    <last_name>Dunst</last_name>
+	    <role>Marie Antoinette</role>
+	</actor>
+
+  </movie>

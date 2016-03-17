@@ -1,0 +1,17 @@
+{
+    "_id": "movie:2",
+    "title": "Alien",
+    "year": "1979",
+    "genre": "Science-fiction",
+    "summary": "Près d'un vaisseau spatial échoué sur une lointaine planète, des Terriens en mission découvrent de bien étranges \"oeufs\". Ils en ramènent un à bord, ignorant qu'ils viennent d'introduire parmi eux un huitième passager particulièrement féroce et meurtrier. ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:4"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:5",
+	    "role": "Ripley"	
+	}
+	]
+}

@@ -1,0 +1,20 @@
+  <movie>
+    <title>Le silence des agneaux</title>
+    <year>1990</year>
+    <genre>crime</genre>
+    <summary>Afin de retrouver la piste d'un tueur surlast_namemé Buffalo Bill car il scalpe les femmes qu'il
+	 assassine, la jeune stagiaire du FBI Clarice Starling est dépêchée auprès d'Hannibal Lecter,
+	 prisonnier pour avoir dévoré ses victimes. La coopération de ce dernier devrait permettre à
+	 Clarice de saisir et d'anticiper le comportement de Buffalo... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='49' >
+	</director>
+	<actor  id='50' >
+	    <role>Dr. Hannibal Lecter</role>
+	</actor>
+	<actor  id='51' >
+	    <role>Clarice Starling</role>
+	</actor>
+
+  </movie>

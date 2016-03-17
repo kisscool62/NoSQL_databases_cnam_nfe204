@@ -1,0 +1,25 @@
+  <movie>
+    <title>58 minutes pour vivre</title>
+    <year>1990</year>
+    <genre>Action</genre>
+    <summary>
+	
+	
+	
+	
+	
+	
+	
+	 Venu attendre sa femme a l'aéroport, le policier John McClane remarque la présence de
+	 terroristes qui ont pris le contrôle des pistes, empêchant tout avion d'atterrir et menaçant de
+	 laisser les appareils en vol tourner jusqu'à épuisement de leur kérosène. John n'a devant lui que
+	 58 minutes pour éviter la catastrophe... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='28' >
+	</director>
+	<actor  id='27' >
+	    <role>McClane</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,26 @@
+  <movie>
+    <title>Mission: Impossible</title>
+    <year>1996</year>
+    <genre>Action</genre>
+    <summary>Chargé d'une nouvelle mission, l'agent du contre espionnage Ethan Hunt tombe avec son
+	 équipe dans un piège sanglant. Seul survivant avec Claire, la jeune épouse de son regretté chef
+	 Jim Phelps, Ethan se retrouve accusé de trahison. En fuite, il prépare sa contre-attaque,
+	 recrutant l'homme de main Krieger et le pirate informatique Luther... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='64' >
+	</director>
+	<actor  id='60' >
+	    <role>Franz Krieger</role>
+	</actor>
+	<actor  id='65' >
+	    <role>Ethan Hunt</role>
+	</actor>
+	<actor  id='66' >
+	    <role>Jim Phelps</role>
+	</actor>
+	<actor  id='67' >
+	    <role>Claire Phelps</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,29 @@
+  <movie>
+    <title>American Beauty</title>
+    <year>1999</year>
+    <genre>Comédie</genre>
+    <summary>Lester Burnham, sa femme Carolyn et leur fille Jane mènent apparemment une vie des plus
+	 heureuses dans leur belle banlieue. Mais derrière cette respectable façade se tisse une étrange
+	 et grinçante tragi-comédie familiale où désirs inavoués, frustrations et violences refoulées
+	 conduiront inexorablement un homme vers la mort. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='17' >
+	    <last_name>Mendes</last_name>
+	    <first_name>Sam</first_name>
+	    <birth_date>1965</birth_date>
+	</director>
+	<actor  id='18' >
+	    <first_name>Kevin</first_name>
+	    <last_name>Spacey</last_name>
+	    <birth_date>1959</birth_date>
+	    <role>Lester Burnham</role>
+	</actor>
+	<actor  id='19' >
+	    <first_name>Anette</first_name>
+	    <last_name>Bening</last_name>
+	    <birth_date>1958</birth_date>
+	    <role>Carolyn Burnham</role>
+	</actor>
+
+  </movie>

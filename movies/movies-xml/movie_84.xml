@@ -1,0 +1,25 @@
+  <movie>
+    <title>Rio Grande</title>
+    <year>1950</year>
+    <genre>Western</genre>
+    <summary>Colonel de la cavalerie américaine, Kirby York acceuille dans son régiment son propre fils, le jeune Jeff, recalé à West Point. Séparée de York depuis un épisode tragique de la Guerre de Sécession, Kathleen, la mère de Jeff, intervient auprès de son époux pour qu'il n'accepte pas le jeune homme dans sa garnison. La guerre contre les Indiens fait rage, et la mère craint pour la vie de son fils. Une terrible bataille contre les Apaches s'annonce... </summary>
+    <country>USA</country>
+	<director  id='263' >
+	    <last_name>Ford</last_name>
+	    <first_name>John</first_name>
+	    <birth_date>1894</birth_date>
+	</director>
+	<actor  id='264' >
+	    <first_name>John</first_name>
+	    <last_name>Wayne</last_name>
+	    <birth_date>1907</birth_date>
+	    <role>Lt. Col. Kirby Yorke</role>
+	</actor>
+	<actor  id='265' >
+	    <first_name>Maureen</first_name>
+	    <last_name>O'Hara</last_name>
+	    <birth_date>1920</birth_date>
+	    <role>Mrs. Kathleen Yorke</role>
+	</actor>
+
+  </movie>

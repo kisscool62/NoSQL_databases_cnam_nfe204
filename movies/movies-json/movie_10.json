@@ -1,0 +1,30 @@
+{
+"_id": "movie:10",
+"title": "Blade Runner",
+"year": 1982,
+"genre": "Action",
+"summary": "En 2019, lors de la décadence de Los Angeles, des êtres synthétiques, sans pensée, sans émotions, suffisent aux différents travaux d'entretien. Leur durée de vie n'excède pas 4 années. Un jour, ces ombres humaines se révoltent et on charge les tueurs, appelés Blade Runner, de les abattre... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:4",
+	"last_name": "Scott",
+	"first_name": "Ridley",
+	"birth_date": "1937"	
+	},
+"actors": [
+	{
+	"_id": "artist:24",
+	"first_name": "Harrison",
+	"last_name": "Ford",
+	"birth_date": "1942",
+	"role": "Deckard"	
+	},
+	{
+	"_id": "artist:25",
+	"first_name": "Rutger",
+	"last_name": "Hauer",
+	"birth_date": "1944",
+	"role": "Batty"	
+	}
+	]
+}

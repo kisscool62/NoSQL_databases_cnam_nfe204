@@ -1,0 +1,17 @@
+{
+"_id": "movie:25",
+"title": "Kagemusha",
+"year": 1980,
+"genre": "Guerre",
+"summary": "Au XVIe siecle, Takeda, grand seigneur trouble par les guerres civiles de son pays, fait appel a un Kagemusha pour l'aider dans ses batailles. Takeda est blesse et avant de mourir, il exige que sa mort soit tenue secrete pendant trois ans afin d'eviter un eclatement du clan. Le Kagemusha devra le remplacer... ",
+"country": "JP",
+"director": 	{
+	"_id": "artist:68",
+	"last_name": "Kurozawa",
+	"first_name": "Akira",
+	"birth_date": "1910"	
+	},
+"actors": [
+
+	]
+}

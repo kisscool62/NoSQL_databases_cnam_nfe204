@@ -1,0 +1,40 @@
+  <movie>
+    <title>Reservoir dogs</title>
+    <year>1992</year>
+    <genre>crime</genre>
+    <summary>Après un hold-up manqué, des cambrioleurs de haut vol font leurs comptes dans une confrontation violente, pour découvrir lequel d'entre eux les a trahis.
+	
+	
+	
+	
+	 Voleurs de profession, Joe Cabot et son fils Eddie engagent un groupe de six criminels pour le cambriolage
+	 d'un diamantaire. Malgré toutes les précautions prises, la police est sur place le jour J, et l'opération se
+	 solde par un massacre. Les survivants du gang se réunissent pour règler leurs comptes, chacun
+	 soupçonnant l'autre d'avoir trahi. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='37' >
+	</director>
+	<actor  id='37' >
+	    <role>Mr. Brown</role>
+	</actor>
+	<actor  id='98' >
+	    <role>Mr. White/Larry</role>
+	</actor>
+	<actor  id='99' >
+	    <role>Freddy Newendyke/Mr. Orange</role>
+	</actor>
+	<actor  id='100' >
+	    <role>Nice Guy Eddie</role>
+	</actor>
+	<actor  id='215' >
+	    <role>Mr Blonde</role>
+	</actor>
+	<actor  id='217' >
+	    <role>Mr Pink</role>
+	</actor>
+	<actor  id='218' >
+	    <role>Mr Blue</role>
+	</actor>
+
+  </movie>

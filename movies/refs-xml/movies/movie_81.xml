@@ -1,0 +1,13 @@
+  <movie>
+    <title>Les quatre cents coups</title>
+    <year>1959</year>
+    <genre>drama</genre>
+    <summary>Antoine a une adolescence turbulente. Il ment à ses parents indifférents à son sort, vole, fugue. Son seul réconfort, il fait les quatre cents coups avec son ami René. Un jour, la police s'en mêle. </summary>
+    <country>FR</country>
+	<director  id='259' >
+	</director>
+	<actor  id='260' >
+	    <role>Antoine Doinel</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,16 @@
+  <movie>
+    <title>Alien</title>
+    <year>1979</year>
+    <genre>Science-fiction</genre>
+    <summary>Près d'un vaisseau spatial échoué sur une lointaine planète, des Terriens en mission découvrent
+	 de bien étranges &quot;oeufs&quot;. Ils en ramènent un à bord, ignorant qu'ils viennent d'introduire parmi
+	 eux un huitième passager particulièrement féroce et meurtrier. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='4' >
+	</director>
+	<actor  id='5' >
+	    <role>Ripley</role>
+	</actor>
+
+  </movie>

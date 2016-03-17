@@ -1,0 +1,26 @@
+  <movie>
+    <title>Soleil vert</title>
+    <year>1973</year>
+    <genre>Science-fiction</genre>
+    <summary>L'action du film se déroule en l'an 2022 à New York qui est devenue une mégapole de 44 millions d'habitants. Il règne en permanence une température élevée, soit plus de 30 °C. L'eau est rare. La faune et la flore ont quasiment disparu. La nourriture issue de l'agriculture également. La plupart des habitants n'ont pas les moyens d'acheter des aliments naturels, les prix étant exorbitants. Ils en sont réduits à manger des produits de synthèse, fournis par la multinationale « Soylent », des tablettes de forme carrée, jaunes, rouges ou bleues. Un nouvel aliment vient d'être lancé, le soylent green, beaucoup plus nutritif, cher et disponible uniquement le mardi : ce jour-là, des émeutes de citoyens affamés ne sont pas rares et sont sévèrement réprimées.
+	Thorn, un policier « de premier ordre », vit avec son ami Sol Roth, un vieux juif lettré, dans un petit appartement délabré et surpeuplé. Sol peste contre l'état du monde et a la nostalgie du passé tandis que Thorn se contente des seules choses qu'il a connues, à savoir la nourriture synthétique et la canicule perpétuelle.
+	Dans le même temps, William Simonson, un des dirigeants de la société agroalimentaire Soylent, est exécuté dans son appartement situé dans une tour sécurisée des beaux quartiers de Chelsea ; Thorn est chargé de l'enquête et va découvrir que cette affaire, rapidement étiquetée comme étant un crime crapuleux, se révèle être en fait un assassinat visant à empêcher Simonson de révéler un terrible secret. Thorn comprend que Tab Fielding, le garde du corps du dirigeant, est complice car il était, comme par hasard, absent au moment du meurtre et que le système de sécurité était en panne. Thorn ramène chez lui divers objets dont des aliments frais, de la viande et du bourbon, qu'il a dérobé chez la victime, et les partage avec Sol. Poursuivant son enquête, Thorn revient dans l'appartement, noue une relation avec la « compagne » de Simonson, ayant le statut de simple « meuble » et dont le prochain locataire disposera.
+	Puis Thorn découvre que Tab Fielding est propriétaire d'un bel appartement et qu'il a les moyens d'acheter de la nourriture naturelle, telle que de la confiture aux fraises : les soupçons du policier se confirment donc et il refuse de clôturer l'enquête. Thorn se révélant trop curieux, Donovan, l'homme chargé de la sécurité et qui travaille pour Santini, le gouverneur, décide de le supprimer par l'intermédiaire de son tueur à gage, Gilbert, l'exécuteur de Simonson.
+	Profitant d'une émeute due à l'épuisement des stocks de soylent green, Gilbert tente de tuer Thorn en lui tirant dessus mais échoue par deux fois, tant la foule est dense. Thorn finit par maîtriser Gilbert et l'envoie bouler sous une « dégageuse » (scoop), sorte de camion-benne tractopelle ramassant les émeutiers afin de canaliser l'émeute.
+	Pendant ce temps, Sol se rend à l'Échange, bibliothèque où se réunissent des gens instruits, sorte de comité de sage consultatif pouvant émettre un avis auprès d'instances internationales. Sol leur montre les deux rapports d'activité de la société Soylent que Thorn avait découvert chez Simonson. Face aux conclusions du comité, horrifié et désemparé, Sol comprend pourquoi Simonson a été assassiné : il décide alors d'aller au Foyer, endroit où l'on se fait euthanasier. Thorn arrive trop tard pour l'en empêcher mais réussit à assister aux dernières minutes de son ami : sur un immense écran, Thorn voit défiler les images de ce qu'était la Terre autrefois, des paysages magnifiques, la vie sauvage, la beauté de la nature. Avant de mourir, Sol lui demande de trouver la preuve que la société Soylent n'est pas ce qu'elle prétend être.
+	Thorn se glisse dans l'un des camions bennes emmenant les cadavres à l'extérieur de la ville vers un crematorium et découvre, en explorant les locaux de l'usine, que le soylent green est en réalité fabriqué à partir des cadavres euthanasiés : cet aliment est, selon le discours officiel, censé être fabriqué à partir de plancton. En réalité, même les océans sont devenus stériles et l'anthropophagie est désormais intégrée au système alimentaire humain.
+	Pourchassé par les tueurs au service du gouverneur Santini, dont Tab Fielding, Thorn finit par être sévèrement blessé. Quand son supérieur arrive à sa rescousse, Thorn se met à hurler que le « soylent green est fabriqué avec des gens qui servent de bétails ». Il supplie son supérieur de tout révéler.</summary>
+    <country>USA</country>
+	<director  id='7' >
+	    <last_name>Fleischer</last_name>
+	    <first_name>Richard </first_name>
+	    <birth_date>1973</birth_date>
+	</director>
+	<actor  id='8' >
+	    <first_name>Charlton </first_name>
+	    <last_name>Hestone</last_name>
+	    <birth_date>1923</birth_date>
+	    <role>sol</role>
+	</actor>
+
+  </movie>

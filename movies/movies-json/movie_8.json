@@ -1,0 +1,37 @@
+{
+"_id": "movie:8",
+"title": "Impitoyable",
+"year": 1992,
+"genre": "Western",
+"summary": "Légendaire hors-la-loi, William Munny s'est reconverti depuis onze ans en paisible fermier. Il reprend néanmoins les armes pour traquer deux tueurs en compagnie de son vieil ami Ned Logan. Mais ce dernier est capturé, puis éxécute. L'honneur et l'amitié imposent dès lors à Munny de redevenir une dernière fois le héros qu'il fut jadis... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:20",
+	"last_name": "Eastwood",
+	"first_name": "Clint",
+	"birth_date": "1930"	
+	},
+"actors": [
+	{
+	"_id": "artist:20",
+	"first_name": "Clint",
+	"last_name": "Eastwood",
+	"birth_date": "1930",
+	"role": "William Munny"	
+	},
+	{
+	"_id": "artist:21",
+	"first_name": "Gene",
+	"last_name": "Hackman",
+	"birth_date": "1930",
+	"role": "Little Bill Dagget"	
+	},
+	{
+	"_id": "artist:22",
+	"first_name": "Morgan",
+	"last_name": "Freeman",
+	"birth_date": "1937",
+	"role": "Ned Logan"	
+	}
+	]
+}

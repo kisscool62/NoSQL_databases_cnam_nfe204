@@ -1,0 +1,21 @@
+{
+    "_id": "movie:21",
+    "title": "Le silence des agneaux",
+    "year": "1990",
+    "genre": "crime",
+    "summary": "Afin de retrouver la piste d'un tueur surlast_namemé Buffalo Bill car il scalpe les femmes qu'il assassine, la jeune stagiaire du FBI Clarice Starling est dépêchée auprès d'Hannibal Lecter, prisonnier pour avoir dévoré ses victimes. La coopération de ce dernier devrait permettre à Clarice de saisir et d'anticiper le comportement de Buffalo... ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:49"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:50",
+	    "role": "Dr. Hannibal Lecter"	
+	},
+	{
+	    "_id": "artist:51",
+	    "role": "Clarice Starling"	
+	}
+	]
+}

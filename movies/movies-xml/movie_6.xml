@@ -1,0 +1,35 @@
+  <movie>
+    <title>Sleepy Hollow</title>
+    <year>1999</year>
+    <genre>Fantastique</genre>
+    <summary>Nouvelle Angleterre, 1799. A Sleepy Hollow, plusieurs cadavres sont retrouvés décapités. La
+	                                      rumeur attribue ces meurtres à un cavalier lui-même sans tête. Mais le fin limier
+	                                      new-yorkais Ichabod Crane ne croit pas en ses aberrations. Tombé sous le charme de la
+	                                      vénéneuse Katrina, il mène son enquête au coeur des sortilèges de Sleepy Hollow.. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='13' >
+	    <last_name>Burton</last_name>
+	    <first_name>Tim</first_name>
+	    <birth_date>1958</birth_date>
+	</director>
+	<actor  id='14' >
+	    <first_name>Johnny</first_name>
+	    <last_name>Depp</last_name>
+	    <birth_date>1964</birth_date>
+	    <role>Constable Ichabod Crane</role>
+	</actor>
+	<actor  id='96' >
+	    <first_name>Christina</first_name>
+	    <last_name>Ricci</last_name>
+	    <birth_date>1980</birth_date>
+	    <role>Katrina Anne Van Tassel</role>
+	</actor>
+	<actor  id='97' >
+	    <first_name>Christopher</first_name>
+	    <last_name>Walken</last_name>
+	    <birth_date>1943</birth_date>
+	    <role>Le cavalier</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,13 @@
+  <movie>
+    <title>L'armée des douze singes</title>
+    <year>1995</year>
+    <genre>Science-fiction</genre>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='33' >
+	</director>
+	<actor  id='27' >
+	    <role>Cole</role>
+	</actor>
+
+  </movie>

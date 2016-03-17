@@ -1,0 +1,51 @@
+{
+"_id": "movie:42",
+"title": "Jeanne d'Arc",
+"year": 1999,
+"genre": "Guerre",
+"summary": null,
+"country": "FR",
+"director": 	{
+	"_id": "artist:111",
+	"last_name": "Besson",
+	"first_name": "Luc",
+	"birth_date": "1959"	
+	},
+"actors": [
+	{
+	"_id": "artist:80",
+	"first_name": "Dustin",
+	"last_name": "Hoffman",
+	"birth_date": "1937",
+	"role": null	
+	},
+	{
+	"_id": "artist:112",
+	"first_name": "Milla",
+	"last_name": "Jovovich",
+	"birth_date": "1975",
+	"role": "Jeanne d'Arc"	
+	},
+	{
+	"_id": "artist:113",
+	"first_name": "Fane",
+	"last_name": "Dunaway",
+	"birth_date": "1941",
+	"role": "Yolande d'Aragon"	
+	},
+	{
+	"_id": "artist:114",
+	"first_name": "John",
+	"last_name": "Malkovitch",
+	"birth_date": "1953",
+	"role": "Charles VII"	
+	},
+	{
+	"_id": "artist:115",
+	"first_name": "Tchky",
+	"last_name": "Karyo",
+	"birth_date": "1953",
+	"role": "Dunois"	
+	}
+	]
+}

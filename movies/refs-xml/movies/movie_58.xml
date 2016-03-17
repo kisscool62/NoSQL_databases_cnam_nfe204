@@ -1,0 +1,20 @@
+  <movie>
+    <title>Une journée en enfer</title>
+    <year>1995</year>
+    <genre>Action</genre>
+    <summary>John McClane est cette fois-ci aux prises avec un maître chanteur, facétieux et dangereux, qui dépose des bombes dans New York.</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='168' >
+	</director>
+	<actor  id='27' >
+	    <role>McClane</role>
+	</actor>
+	<actor  id='38' >
+	    <role>Zeus Carver</role>
+	</actor>
+	<actor  id='169' >
+	    <role>Simon Gruber</role>
+	</actor>
+
+  </movie>

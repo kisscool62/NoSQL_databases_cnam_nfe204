@@ -1,0 +1,37 @@
+{
+"_id": "movie:30",
+"title": "Top Gun",
+"year": 1986,
+"genre": "Action",
+"summary": " Pilote de chasse émérite mais casse-cou Maverick Mitchell est admis à Top Gun, l'école de l'élite de l'aéronavale. Son manque de prudence lui attire les foudres de ses supérieurs et la haine de certains coéquipiers. Il perd subitement la foi et confiance en lui quand son ami de toujours meurt en vol et qu'il s'en croit responsable... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:81",
+	"last_name": "Scott",
+	"first_name": "Tony",
+	"birth_date": "1944"	
+	},
+"actors": [
+	{
+	"_id": "artist:53",
+	"first_name": "Val",
+	"last_name": "Kilmer",
+	"birth_date": "1959",
+	"role": "Iceman"	
+	},
+	{
+	"_id": "artist:65",
+	"first_name": "Tom",
+	"last_name": "Cruise",
+	"birth_date": "1962",
+	"role": "Lt. Pete 'Maverick' Mitchell"	
+	},
+	{
+	"_id": "artist:82",
+	"first_name": "Kelly",
+	"last_name": "McGillis",
+	"birth_date": "1957",
+	"role": "Charlotte Blackwood"	
+	}
+	]
+}

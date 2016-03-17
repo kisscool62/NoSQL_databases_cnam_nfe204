@@ -1,0 +1,20 @@
+  <movie>
+    <title>Titanic</title>
+    <year>1997</year>
+    <genre>drama</genre>
+    <summary>Conduite par Brock Lovett, une expédition américaine fouillant l'épave du Titanic remonte à la
+	 surface le croquis d'une femme nue. Alertée par les médias la dame en question, Rose DeWitt
+	 Bukater, aujourd'hui centenaire, rejoint les lieux du naufrage, d'où elle entreprend de conter le
+	 récit de son fascinant, étrange et tragique voyage... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='6' >
+	</director>
+	<actor  id='109' >
+	    <role>Rose DeWitt Bukater</role>
+	</actor>
+	<actor  id='110' >
+	    <role>Jack Dawson</role>
+	</actor>
+
+  </movie>

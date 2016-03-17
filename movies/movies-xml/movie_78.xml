@@ -1,0 +1,39 @@
+  <movie>
+    <title>Django unchained</title>
+    <year>2012</year>
+    <genre>Western</genre>
+    <summary>Dans le sud des États-Unis, deux ans avant la guerre de Sécession, le Dr King Schultz, un chasseur de primes allemand, fait l’acquisition de Django, un esclave qui peut l’aider à traquer les frères Brittle, les meurtriers qu’il recherche. Schultz promet à Django de lui rendre sa liberté lorsqu’il aura capturé les Brittle – morts ou vifs.
+	Alors que les deux hommes pistent les dangereux criminels, Django n’oublie pas que son seul but est de retrouver Broomhilda, sa femme, dont il fut séparé à cause du commerce des esclaves…
+	Lorsque Django et Schultz arrivent dans l’immense plantation du puissant Calvin Candie, ils éveillent les soupçons de Stephen, un esclave qui sert Candie et a toute sa confiance. Le moindre de leurs mouvements est désormais épié par une dangereuse organisation de plus en plus proche… Si Django et Schultz veulent espérer s’enfuir avec Broomhilda, ils vont devoir choisir entre l’indépendance et la solidarité, entre le sacrifice et la survie…</summary>
+    <country>USA</country>
+	<director  id='37' >
+	    <last_name>Tarantino</last_name>
+	    <first_name>Quentin</first_name>
+	    <birth_date>1963</birth_date>
+	</director>
+	<actor  id='110' >
+	    <first_name>Leonardo</first_name>
+	    <last_name>DiCaprio</last_name>
+	    <birth_date>1974</birth_date>
+	    <role>Calvin Candie</role>
+	</actor>
+	<actor  id='212' >
+	    <first_name>Samuel</first_name>
+	    <last_name>Jackson</last_name>
+	    <birth_date>1948</birth_date>
+	    <role>Stephen</role>
+	</actor>
+	<actor  id='255' >
+	    <first_name>Jamie</first_name>
+	    <last_name>Foxx</last_name>
+	    <birth_date>1967</birth_date>
+	    <role>Django</role>
+	</actor>
+	<actor  id='256' >
+	    <first_name>Christoph</first_name>
+	    <last_name>Waltz</last_name>
+	    <birth_date>1956</birth_date>
+	    <role>Dr. King Schultz</role>
+	</actor>
+
+  </movie>

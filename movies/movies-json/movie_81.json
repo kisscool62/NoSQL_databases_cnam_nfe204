@@ -1,0 +1,23 @@
+{
+"_id": "movie:81",
+"title": "Les quatre cents coups",
+"year": 1959,
+"genre": "drama",
+"summary": "Antoine a une adolescence turbulente. Il ment à ses parents indifférents à son sort, vole, fugue. Son seul réconfort, il fait les quatre cents coups avec son ami René. Un jour, la police s'en mêle. ",
+"country": "FR",
+"director": 	{
+	"_id": "artist:259",
+	"last_name": "Truffaut",
+	"first_name": "François",
+	"birth_date": null	
+	},
+"actors": [
+	{
+	"_id": "artist:260",
+	"first_name": "Jean-Pierre",
+	"last_name": "Léaud",
+	"birth_date": "1944",
+	"role": "Antoine Doinel"	
+	}
+	]
+}

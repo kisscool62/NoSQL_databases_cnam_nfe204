@@ -1,0 +1,35 @@
+  <movie>
+    <title>Le retour du Jedi</title>
+    <year>1983</year>
+    <genre>Science-fiction</genre>
+    <summary>Luke Skywalker s'introduit chez Jabba pour delivrer Han Solo et la princesse Leia, tandis que l'Empire
+	 reconstruit une deuxieme &quot;Etoile de la Mort&quot;. Luke se rend ensuite au chevet de Yoda qui est mourant. Il lui
+	 apprend que Leia est sa soeur. Luke forme un commando pour attaquer l'Etoile, tandis qu'il affronte son
+	 pere, Darth Vador... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='91' >
+	    <last_name>Marquand</last_name>
+	    <first_name>Richard</first_name>
+	    <birth_date>1938</birth_date>
+	</director>
+	<actor  id='24' >
+	    <first_name>Harrison</first_name>
+	    <last_name>Ford</last_name>
+	    <birth_date>1942</birth_date>
+	    <role>Han Solo</role>
+	</actor>
+	<actor  id='92' >
+	    <first_name>Mark</first_name>
+	    <last_name>Hamill</last_name>
+	    <birth_date>1951</birth_date>
+	    <role>Luke Skywalker</role>
+	</actor>
+	<actor  id='93' >
+	    <first_name>Carrie</first_name>
+	    <last_name>Fisher</last_name>
+	    <birth_date>1956</birth_date>
+	    <role>Princesse Leia</role>
+	</actor>
+
+  </movie>

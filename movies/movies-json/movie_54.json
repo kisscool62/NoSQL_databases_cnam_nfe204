@@ -1,0 +1,58 @@
+{
+"_id": "movie:54",
+"title": "Le parrain",
+"year": 1972,
+"genre": "drama",
+"summary": "En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, \" parrain \" de cette famille, marie sa fille à un bookmaker. Sollozzo, \" parrain \" de la famille Tattaglia, propose à Don Vito une association dans le trafic de drogue, mais celui-ci refuse. Sonny, un de ses fils, y est quant à lui favorable.Afin de traiter avec Sonny, Sollozzo tente de faire tuer Don Vito, mais celui-ci en réchappe. Michael, le frère cadet de Sonny, recherche alors les commanditaires de l'attentat et tue Sollozzo et le chef de la police, en représailles.Michael part alors en Sicile, où il épouse Apollonia, mais celle-ci est assassinée à sa place. De retour à New York, Michael épouse Kay Adams et se prépare à devenir le successeur de son père...",
+"country": "USA",
+"director": 	{
+	"_id": "artist:181",
+	"last_name": "Coppola",
+	"first_name": "Francis Ford",
+	"birth_date": "1940"	
+	},
+"actors": [
+	{
+	"_id": "artist:137",
+	"first_name": "James",
+	"last_name": "Caan",
+	"birth_date": "1940",
+	"role": "Sonny Corleone"	
+	},
+	{
+	"_id": "artist:155",
+	"first_name": "Sterling",
+	"last_name": "Hayden",
+	"birth_date": "1916",
+	"role": "Capt. McCluskey"	
+	},
+	{
+	"_id": "artist:176",
+	"first_name": "Al",
+	"last_name": "Pacino",
+	"birth_date": "1940",
+	"role": "Michael Corleone"	
+	},
+	{
+	"_id": "artist:182",
+	"first_name": "Marlon",
+	"last_name": "Brando",
+	"birth_date": "1924",
+	"role": "Do Vito Corleone"	
+	},
+	{
+	"_id": "artist:183",
+	"first_name": "Diane",
+	"last_name": "Keaton",
+	"birth_date": "1946",
+	"role": "Kay Adams"	
+	},
+	{
+	"_id": "artist:184",
+	"first_name": "Robert",
+	"last_name": "Duvall",
+	"birth_date": "1931",
+	"role": "Tom Hagen"	
+	}
+	]
+}

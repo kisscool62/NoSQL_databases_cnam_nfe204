@@ -1,0 +1,19 @@
+  <movie>
+    <title>Casino</title>
+    <year>1995</year>
+    <genre>crime</genre>
+    <summary>En 1973, Sam Ace Rothstein est le grand manitou de la ville de toutes les folies, Las Vegas. Il achète et épouse une virtuose de l’arnaque, Ginger Mc Kenna, qui sombre bien vite dans l’alcool et la drogue. Mais un autre ennui guette Sam, son ami d’enfance Nicky Santoro, qui entreprend de mettre la ville en coupe réglée…</summary>
+    <country>USA</country>
+	<director  id='241' >
+	</director>
+	<actor  id='167' >
+	    <role>Sam 'Ace' Rothstein</role>
+	</actor>
+	<actor  id='243' >
+	    <role> 	Nicky Santoro </role>
+	</actor>
+	<actor  id='245' >
+	    <role>Ginger McKenna</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,17 @@
+{
+    "_id": "movie:13",
+    "title": "Van Gogh",
+    "year": "1990",
+    "genre": "drama",
+    "summary": "Les derniers jours de la vie de Vincent Van Gogh, réfugié à Auvers-sur-Oise, près de chez son ami et protecteur le docteur Gachet, un ami de son frère Théo. Ce peintre maudit, que les villageois surlast_namemaient \"le fou\", n'avait alors plus que deux mois à vivre, qu'il passa en peignant un tableau par jour. ",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:29"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:30",
+	    "role": "Van Gogh"	
+	}
+	]
+}

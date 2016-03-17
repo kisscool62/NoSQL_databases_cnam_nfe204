@@ -1,0 +1,37 @@
+{
+"_id": "movie:58",
+"title": "Une journée en enfer",
+"year": 1995,
+"genre": "Action",
+"summary": "John McClane est cette fois-ci aux prises avec un maître chanteur, facétieux et dangereux, qui dépose des bombes dans New York.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:168",
+	"last_name": "Grier",
+	"first_name": "Pam",
+	"birth_date": "1949"	
+	},
+"actors": [
+	{
+	"_id": "artist:27",
+	"first_name": "Bruce",
+	"last_name": "Willis",
+	"birth_date": "1955",
+	"role": "McClane"	
+	},
+	{
+	"_id": "artist:38",
+	"first_name": "Samuel L.",
+	"last_name": "Jackson",
+	"birth_date": "1948",
+	"role": "Zeus Carver"	
+	},
+	{
+	"_id": "artist:169",
+	"first_name": "Bridget",
+	"last_name": "Fonda",
+	"birth_date": "1964",
+	"role": "Simon Gruber"	
+	}
+	]
+}

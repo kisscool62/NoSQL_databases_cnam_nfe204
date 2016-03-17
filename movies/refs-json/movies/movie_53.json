@@ -1,0 +1,17 @@
+{
+    "_id": "movie:53",
+    "title": "Bad Lieutenant",
+    "year": "1992",
+    "genre": "drama",
+    "summary": "La descente aux enfers d'un flic pourri qui enquete sur le viol d'une jolie religieuse.",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:122"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:98",
+	    "role": "Le lieutenant"	
+	}
+	]
+}

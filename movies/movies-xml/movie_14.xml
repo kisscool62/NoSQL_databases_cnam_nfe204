@@ -1,0 +1,35 @@
+  <movie>
+    <title>Seven</title>
+    <year>1995</year>
+    <genre>crime</genre>
+    <summary>A New York, un criminel anonyme a décidé de commettre 7 meurtres basés sur les 7 pêchés
+	 capitaux énoncés dans la Bible : gourmandise, avarice, paresse, orgueil, luxure, envie et colère.
+	 Vieux flic blasé à 7 jours de la retraite, l'inspecteur Somerset mène l'enquête tout en formant
+	 son remplaçant, l'ambitieux inspecteur David Mills... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='31' >
+	    <last_name>Fincher</last_name>
+	    <first_name>David</first_name>
+	    <birth_date>1962</birth_date>
+	</director>
+	<actor  id='18' >
+	    <first_name>Kevin</first_name>
+	    <last_name>Spacey</last_name>
+	    <birth_date>1959</birth_date>
+	    <role>Doe</role>
+	</actor>
+	<actor  id='22' >
+	    <first_name>Morgan</first_name>
+	    <last_name>Freeman</last_name>
+	    <birth_date>1937</birth_date>
+	    <role>Somerset</role>
+	</actor>
+	<actor  id='32' >
+	    <first_name>Brad</first_name>
+	    <last_name>Pitt</last_name>
+	    <birth_date>1963</birth_date>
+	    <role>Mills</role>
+	</actor>
+
+  </movie>

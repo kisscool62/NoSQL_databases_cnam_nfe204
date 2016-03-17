@@ -1,0 +1,18 @@
+  <movie>
+    <title>Le gendarme et les extra-terrestres</title>
+    <year>1978</year>
+    <genre>Comédie</genre>
+    <summary>En anglais: Gendarme and the Creatures from Outer Space !
+	</summary>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='71' >
+	</director>
+	<actor  id='72' >
+	    <role>Inspecteur Cruchot</role>
+	</actor>
+	<actor  id='73' >
+	    <role>Adjudant Gerber</role>
+	</actor>
+
+  </movie>

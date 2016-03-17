@@ -1,0 +1,28 @@
+  <movie>
+    <title>Rain Man</title>
+    <year>1988</year>
+    <genre>drama</genre>
+    <summary>A la mort de son père, Charlie se voit déposséder de son héritage par un frère dont il ignorait
+	 l'existence, Raymond. Celui-ci est autiste et vit dans un hôpital psychiatrique. Charlie enlève
+	 Raymond afin de prouver qu'il est capable de s'en occuper et de toucher l'héritage. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='79' >
+	    <last_name>Levinson</last_name>
+	    <first_name>Barry</first_name>
+	    <birth_date>1942</birth_date>
+	</director>
+	<actor  id='65' >
+	    <first_name>Tom</first_name>
+	    <last_name>Cruise</last_name>
+	    <birth_date>1962</birth_date>
+	    <role>Charlie Babbitt</role>
+	</actor>
+	<actor  id='80' >
+	    <first_name>Dustin</first_name>
+	    <last_name>Hoffman</last_name>
+	    <birth_date>1937</birth_date>
+	    <role>Raymond Babbitt</role>
+	</actor>
+
+  </movie>

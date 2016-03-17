@@ -1,0 +1,29 @@
+  <movie>
+    <title>Les oiseaux</title>
+    <year>1963</year>
+    <genre>Horreur</genre>
+    <summary>Melanie Daniels se rend à Bodega Bay pour offrir deux perruches en cage à Cathy, la soeur de l'avocat
+	 Mitch Brenner. Attaquée par une mouette, Melanie reste chez les Brenner pour la nuit. Mais d'autres
+	 évènements étranges se produisent: des enfants sont blessés par des corbeaux et la maison de Mitch est
+	 envahie par des milliers d'oiseaux. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='3' >
+	    <last_name>Hitchcock</last_name>
+	    <first_name>Alfred</first_name>
+	    <birth_date>1899</birth_date>
+	</director>
+	<actor  id='94' >
+	    <first_name>Rod</first_name>
+	    <last_name>Taylor</last_name>
+	    <birth_date>1930</birth_date>
+	    <role>Mitch Brenner</role>
+	</actor>
+	<actor  id='95' >
+	    <first_name>Tippi</first_name>
+	    <last_name>Hedren</last_name>
+	    <birth_date>1931</birth_date>
+	    <role>Melanie Daniels</role>
+	</actor>
+
+  </movie>

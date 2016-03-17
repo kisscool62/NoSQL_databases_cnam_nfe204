@@ -1,0 +1,31 @@
+  <movie>
+    <title>58 minutes pour vivre</title>
+    <year>1990</year>
+    <genre>Action</genre>
+    <summary>
+	
+	
+	
+	
+	
+	
+	
+	 Venu attendre sa femme a l'aéroport, le policier John McClane remarque la présence de
+	 terroristes qui ont pris le contrôle des pistes, empêchant tout avion d'atterrir et menaçant de
+	 laisser les appareils en vol tourner jusqu'à épuisement de leur kérosène. John n'a devant lui que
+	 58 minutes pour éviter la catastrophe... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='28' >
+	    <last_name>Harlin</last_name>
+	    <first_name>Renny</first_name>
+	    <birth_date>1959</birth_date>
+	</director>
+	<actor  id='27' >
+	    <first_name>Bruce</first_name>
+	    <last_name>Willis</last_name>
+	    <birth_date>1955</birth_date>
+	    <role>McClane</role>
+	</actor>
+
+  </movie>

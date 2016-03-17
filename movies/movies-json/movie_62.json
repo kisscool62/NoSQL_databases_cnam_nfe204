@@ -1,0 +1,30 @@
+{
+"_id": "movie:62",
+"title": "Stalingrad",
+"year": 2001,
+"genre": "drama",
+"summary": null,
+"country": "USA",
+"director": 	{
+	"_id": "artist:34",
+	"last_name": "Annaud",
+	"first_name": "Jean-Jacques",
+	"birth_date": "1943"	
+	},
+"actors": [
+	{
+	"_id": "artist:182",
+	"first_name": "Marlon",
+	"last_name": "Brando",
+	"birth_date": "1924",
+	"role": "Vassili Zaïtzev"	
+	},
+	{
+	"_id": "artist:183",
+	"first_name": "Diane",
+	"last_name": "Keaton",
+	"birth_date": "1946",
+	"role": "major König"	
+	}
+	]
+}

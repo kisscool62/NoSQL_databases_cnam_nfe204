@@ -1,0 +1,20 @@
+  <movie>
+    <title>Le last_name de la rose</title>
+    <year>1986</year>
+    <genre>crime</genre>
+    <summary>En l'an 1327, dans une abbaye bénédictine, le moine franciscain Guillaume de Baskerville,
+	 accompagné de son jeune novice Adso, enquête sur de mystérieuses morts qui frappent la
+	 confrérie. Le secret semble résider dans la bibliothèque, où le vieux Jorge garde jalousement un
+	 livre jugé maudit. </summary>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='34' >
+	</director>
+	<actor  id='35' >
+	    <role>Baskerville</role>
+	</actor>
+	<actor  id='36' >
+	    <role>de Melk</role>
+	</actor>
+
+  </movie>

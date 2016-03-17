@@ -1,0 +1,25 @@
+  <movie>
+    <title>Sixième sens</title>
+    <year>1999</year>
+    <genre>Fantastique</genre>
+    <summary>Cole Sear, garconnet de huit ans est hanté par un terrible secret. Son imaginaire est visité par des esprits menacants. Trop jeune pour comprendre le pourquoi de ces apparitions et traumatisé par ces pouvoirs paranormaux, Cole s'enferme dans une peur maladive et ne veut reveler à personne la cause de son enfermement, à l'exception d'un psychologue pour enfants. La recherche d'une explication rationnelle guidera l'enfant et le thérapeute vers une vérité foudroyante et inexplicable.</summary>
+    <country>USA</country>
+	<director  id='170' >
+	    <last_name>Keaton</last_name>
+	    <first_name>Michael</first_name>
+	    <birth_date>1951</birth_date>
+	</director>
+	<actor  id='27' >
+	    <first_name>Bruce</first_name>
+	    <last_name>Willis</last_name>
+	    <birth_date>1955</birth_date>
+	    <role>Malcom Crowe</role>
+	</actor>
+	<actor  id='171' >
+	    <first_name>M. Night</first_name>
+	    <last_name>Shyamalan</last_name>
+	    <birth_date>1970</birth_date>
+	    <role>Cole Sear</role>
+	</actor>
+
+  </movie>

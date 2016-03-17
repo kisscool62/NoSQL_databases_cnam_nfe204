@@ -1,0 +1,25 @@
+{
+    "_id": "movie:51",
+    "title": "De bruit et de fureur",
+    "year": "1988",
+    "genre": "drama",
+    "summary": "L'histoire de Bruno, enfant attardé des banlieues et des H.L.M., plongé dans la violence de son milieu, et dont la vie va se consumer comme une étoile filante.",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:138"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:139",
+	    "role": "Marcel"	
+	},
+	{
+	    "_id": "artist:140",
+	    "role": "Enseignante"	
+	},
+	{
+	    "_id": "artist:141",
+	    "role": "Bruno"	
+	}
+	]
+}

@@ -1,0 +1,37 @@
+{
+"_id": "movie:85",
+"title": "Interstellar",
+"year": 2014,
+"genre": "Science-fiction",
+"summary": "Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astrolast_nameiques dans un voyage interstellaire.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:266",
+	"last_name": "Nolan",
+	"first_name": "Christopher",
+	"birth_date": "1970"	
+	},
+"actors": [
+	{
+	"_id": "artist:267",
+	"first_name": "Mathew",
+	"last_name": "McConaughey",
+	"birth_date": "1969",
+	"role": "Cooper"	
+	},
+	{
+	"_id": "artist:268",
+	"first_name": "Anne",
+	"last_name": "Hathaway",
+	"birth_date": "1982",
+	"role": "   Brand "	
+	},
+	{
+	"_id": "artist:269",
+	"first_name": "Michael",
+	"last_name": "Caine",
+	"birth_date": "1933",
+	"role": "Professor Brand"	
+	}
+	]
+}

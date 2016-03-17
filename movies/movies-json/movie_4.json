@@ -1,0 +1,17 @@
+{
+"_id": "movie:4",
+"title": "Sacrifice",
+"year": 1986,
+"genre": "drama",
+"summary": null,
+"country": "FR",
+"director": 	{
+	"_id": "artist:9",
+	"last_name": "Tarkovski",
+	"first_name": "Andrei",
+	"birth_date": "1932"	
+	},
+"actors": [
+
+	]
+}

@@ -1,0 +1,51 @@
+{
+"_id": "movie:47",
+"title": "Spider-Man",
+"year": 2002,
+"genre": "Action",
+"summary": "Orphelin, Peter Parker est élevé par sa tante May et son oncle Ben dans le quartier Queens de New York. Tout en poursuivant ses études à l'université, il trouve un emploi de photographe au journal Daily Bugle. Il partage son appartement avec Harry Osborn, son meilleur ami, et rêve de séduire la belle Mary Jane.Cependant, après avoir été mordu par une araignée génétiquement modifiée, Peter voit son agilité et sa force s'accroître et se découvre des pouvoirs surnaturels. Devenu Spider-Man, il décide d'utiliser ses nouvelles capacités au service du bien.Au même moment, le père de Harry, le richissime industriel Norman Osborn, est victime d'un accident chimique qui a démesurément augmenté ses facultés intellectuelles et sa force, mais l'a rendu fou. Il est devenu le Bouffon Vert, une créature démoniaque qui menace la ville. Entre lui et Spider-Man, une lutte sans merci s'engage.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:187",
+	"last_name": "Raimi",
+	"first_name": "Sam",
+	"birth_date": "1959"	
+	},
+"actors": [
+	{
+	"_id": "artist:124",
+	"first_name": "Wesley",
+	"last_name": "Snipes",
+	"birth_date": "1962",
+	"role": "Spider-Man"	
+	},
+	{
+	"_id": "artist:125",
+	"first_name": "Annabella",
+	"last_name": "Sciora",
+	"birth_date": "1964",
+	"role": "Norman Osborn"	
+	},
+	{
+	"_id": "artist:126",
+	"first_name": "Isabella",
+	"last_name": "Rosselini",
+	"birth_date": "1952",
+	"role": "Mary Jane Watson"	
+	},
+	{
+	"_id": "artist:127",
+	"first_name": "Vincent",
+	"last_name": "Gallo",
+	"birth_date": "1961",
+	"role": "Oncle Ben"	
+	},
+	{
+	"_id": "artist:128",
+	"first_name": "Lars",
+	"last_name": "von Trier",
+	"birth_date": "1956",
+	"role": "Tante May"	
+	}
+	]
+}

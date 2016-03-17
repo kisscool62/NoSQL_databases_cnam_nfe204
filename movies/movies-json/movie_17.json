@@ -1,0 +1,79 @@
+{
+"_id": "movie:17",
+"title": "Pulp fiction",
+"year": 1994,
+"genre": "Action",
+"summary": "Pulp Fiction décrit l'odyssée sanglante et burlesque de petits malfrats dans la jungle de Hollywood, ou s'entrecroisent les destins de deux petits tueurs, d'un dangereux gangster marié à une camée, d'un boxeur roublard, de prêteurs sur gages sadiques, d'un caïd élégant et dévoué, d'un dealer bon mari et de deux tourtereaux à la gachette facile... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:37",
+	"last_name": "Tarantino",
+	"first_name": "Quentin",
+	"birth_date": "1963"	
+	},
+"actors": [
+	{
+	"_id": "artist:11",
+	"first_name": "John",
+	"last_name": "Travolta",
+	"birth_date": "1954",
+	"role": "Vincent Vega"	
+	},
+	{
+	"_id": "artist:27",
+	"first_name": "Bruce",
+	"last_name": "Willis",
+	"birth_date": "1955",
+	"role": "Butch Coolidge"	
+	},
+	{
+	"_id": "artist:37",
+	"first_name": "Quentin",
+	"last_name": "Tarantino",
+	"birth_date": "1963",
+	"role": "Jimmy Dimmick"	
+	},
+	{
+	"_id": "artist:38",
+	"first_name": "Samuel L.",
+	"last_name": "Jackson",
+	"birth_date": "1948",
+	"role": "Jules Winnfield"	
+	},
+	{
+	"_id": "artist:39",
+	"first_name": "Rosanna",
+	"last_name": "Arquette",
+	"birth_date": "1959",
+	"role": "Jody"	
+	},
+	{
+	"_id": "artist:40",
+	"first_name": "Uma",
+	"last_name": "Thurman",
+	"birth_date": "1970",
+	"role": "Mia Wallace"	
+	},
+	{
+	"_id": "artist:97",
+	"first_name": "Christopher",
+	"last_name": "Walken",
+	"birth_date": "1943",
+	"role": "Capt. Koons"	
+	},
+	{
+	"_id": "artist:98",
+	"first_name": "Harvey",
+	"last_name": "Keitel",
+	"birth_date": "1939",
+	"role": "Winston \"The Wolf\" Wolfe"	
+	},
+	{
+	"_id": "artist:99",
+	"first_name": "Tim",
+	"last_name": "Roth",
+	"birth_date": "1961",
+	"role": "Pumpkin (Ringo)"	
+	}
+	]
+}

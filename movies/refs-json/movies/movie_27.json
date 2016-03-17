@@ -1,0 +1,21 @@
+{
+    "_id": "movie:27",
+    "title": "Le gendarme et les extra-terrestres",
+    "year": "1978",
+    "genre": "Comédie",
+    "summary": "En anglais: Gendarme and the Creatures from Outer Space !",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:71"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:72",
+	    "role": "Inspecteur Cruchot"	
+	},
+	{
+	    "_id": "artist:73",
+	    "role": "Adjudant Gerber"	
+	}
+	]
+}

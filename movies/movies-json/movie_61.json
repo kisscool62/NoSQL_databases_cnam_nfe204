@@ -1,0 +1,51 @@
+{
+"_id": "movie:61",
+"title": "Kill Bill",
+"year": 2003,
+"genre": "drama",
+"summary": "Au cours d'une cérémonie de mariage en plein désert, un commando fait irruption dans la chapelle et tire sur les convives. Laissée pour morte, la Mariée enceinte retrouve ses esprits après un coma de quatre ans.Celle qui a auparavant exercé les fonctions de tueuse à gages au sein du Détachement International des Vipères Assassines n'a alors plus qu'une seule idée en tête : venger la mort de ses proches en éliminant tous les membres de l'organisation criminelle, dont leur chef Bill qu'elle se réserve pour la fin.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:37",
+	"last_name": "Tarantino",
+	"first_name": "Quentin",
+	"birth_date": "1963"	
+	},
+"actors": [
+	{
+	"_id": "artist:40",
+	"first_name": "Uma",
+	"last_name": "Thurman",
+	"birth_date": "1970",
+	"role": "La mariée, alias \"Black Mamba\""	
+	},
+	{
+	"_id": "artist:213",
+	"first_name": "Lucy",
+	"last_name": "Liu",
+	"birth_date": "1968",
+	"role": "O-Ren Ishii"	
+	},
+	{
+	"_id": "artist:214",
+	"first_name": "David",
+	"last_name": "Carradine",
+	"birth_date": "1936",
+	"role": "Bill"	
+	},
+	{
+	"_id": "artist:215",
+	"first_name": "Michael",
+	"last_name": "Madsen",
+	"birth_date": "1958",
+	"role": "Budd / Sidewinder"	
+	},
+	{
+	"_id": "artist:216",
+	"first_name": "Daryl",
+	"last_name": "Hannah",
+	"birth_date": "1960",
+	"role": "Elle Driver"	
+	}
+	]
+}

@@ -1,0 +1,25 @@
+{
+    "_id": "movie:34",
+    "title": "Le retour du Jedi",
+    "year": "1983",
+    "genre": "Science-fiction",
+    "summary": "Luke Skywalker s'introduit chez Jabba pour delivrer Han Solo et la princesse Leia, tandis que l'Empire reconstruit une deuxieme \"Etoile de la Mort\". Luke se rend ensuite au chevet de Yoda qui est mourant. Il lui apprend que Leia est sa soeur. Luke forme un commando pour attaquer l'Etoile, tandis qu'il affronte son pere, Darth Vador... ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:91"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:24",
+	    "role": "Han Solo"	
+	},
+	{
+	    "_id": "artist:92",
+	    "role": "Luke Skywalker"	
+	},
+	{
+	    "_id": "artist:93",
+	    "role": "Princesse Leia"	
+	}
+	]
+}

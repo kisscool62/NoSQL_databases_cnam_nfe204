@@ -1,0 +1,29 @@
+  <movie>
+    <title>Le dernier métro</title>
+    <year>1980</year>
+    <genre>drama</genre>
+    <summary>Paris, septembre 1942. Lucas Steiner, le directeur du théâtre Montmartre a dû fuir parce qu’il est juif. Sa femme Marion Steiner dirige le théâtre et engage Bernard Granger, transfuge du Grand Guignol, pour jouer à ses côtés dans « la Disparue », que met en scène Jean-Louis Cottins. Jusqu’au soir de la générale, la troupe subit les menaces du virulent critique de « Je suis partout », Daxiat, dont l’ambition est de diriger la Comédie-Française. Et si, par amour pour sa femme, Lucas Steiner avait fait semblant de fuir la France et était resté caché dans la cave de son théâtre pendant toute la guerre…. </summary>
+    <country>FR</country>
+	<director  id='259' >
+	    <last_name>Truffaut</last_name>
+	    <first_name>François</first_name>
+	</director>
+	<actor  id='130' >
+	    <first_name>Catherine</first_name>
+	    <last_name>Deneuve</last_name>
+	    <birth_date>1943</birth_date>
+	    <role>Marion Steiner</role>
+	</actor>
+	<actor  id='261' >
+	    <first_name>Gérard</first_name>
+	    <last_name>Departieu</last_name>
+	    <role>Bernard Granger</role>
+	</actor>
+	<actor  id='262' >
+	    <first_name>Jean</first_name>
+	    <last_name>Poiret</last_name>
+	    <birth_date>1926</birth_date>
+	    <role>Jean-Loup Cottins</role>
+	</actor>
+
+  </movie>

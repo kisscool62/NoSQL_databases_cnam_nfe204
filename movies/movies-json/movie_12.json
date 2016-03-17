@@ -1,0 +1,23 @@
+{
+"_id": "movie:12",
+"title": "58 minutes pour vivre",
+"year": 1990,
+"genre": "Action",
+"summary": " Venu attendre sa femme a l'aéroport, le policier John McClane remarque la présence de terroristes qui ont pris le contrôle des pistes, empêchant tout avion d'atterrir et menaçant de laisser les appareils en vol tourner jusqu'à épuisement de leur kérosène. John n'a devant lui que 58 minutes pour éviter la catastrophe... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:28",
+	"last_name": "Harlin",
+	"first_name": "Renny",
+	"birth_date": "1959"	
+	},
+"actors": [
+	{
+	"_id": "artist:27",
+	"first_name": "Bruce",
+	"last_name": "Willis",
+	"birth_date": "1955",
+	"role": "McClane"	
+	}
+	]
+}

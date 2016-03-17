@@ -1,0 +1,20 @@
+  <movie>
+    <title>Eyes Wide Shut</title>
+    <year>1999</year>
+    <genre>Thriller</genre>
+    <summary>Un couple de bourgeois, cédant à la jalousie et à l'obsession sexuelle, entreprend un voyage psychologique
+	 à la recherche de son identité. Le mari, au bout de son périple nocturne, revenu de ses désirs, ne trouvera
+	 finalement auprès de son épouse qu'un compromis banal mais complice, les yeux ouverts à tout jamais sur
+	 un rêve impossible. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='101' >
+	</director>
+	<actor  id='65' >
+	    <role>Docteur William &quot;Bill&quot; Harford</role>
+	</actor>
+	<actor  id='102' >
+	    <role>Alice Harford</role>
+	</actor>
+
+  </movie>

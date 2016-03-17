@@ -1,0 +1,46 @@
+  <movie>
+    <title>Lost in Translation</title>
+    <year>2003</year>
+    <genre>romance</genre>
+    <summary>Bob Harris, acteur sur le déclin, se rend à Tokyo pour touner un spot publicitaire. Il a conscience qu'il se trompe - il devrait être chez lui avec sa famille, jouer au théâtre ou encore chercher un rôle dans un film -, mais il a besoin d'argent.
+	Du haut de son hôtel de luxe, il contemple la ville, mais ne voit rien. Il est ailleurs, détaché de tout, incapable de s'intégrer à la réalité qui l'entoure, incapable également de dormir à cause du décalage horaire.
+	Dans ce même établissement, Charlotte, une jeune Américaine fraîchement diplômée, accompagne son mari, photographe de mode. Ce dernier semble s'intéresser davantage à son travail qu'à sa femme. Se sentant délaissée, Charlotte cherche un peu d'attention. Elle va en trouver auprès de Bob...</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='172' >
+	    <last_name>Osment</last_name>
+	    <first_name>Haley Joel</first_name>
+	    <birth_date>1988</birth_date>
+	</director>
+	<actor  id='173' >
+	    <first_name>Tony</first_name>
+	    <last_name>Collette</last_name>
+	    <birth_date>1972</birth_date>
+	    <role>Bob Harris</role>
+	</actor>
+	<actor  id='174' >
+	    <first_name>Eric</first_name>
+	    <last_name>Leighton</last_name>
+	    <birth_date>1962</birth_date>
+	    <role>Charlotte</role>
+	</actor>
+	<actor  id='175' >
+	    <first_name>Michael</first_name>
+	    <last_name>Mann</last_name>
+	    <birth_date>1943</birth_date>
+	    <role>John</role>
+	</actor>
+	<actor  id='176' >
+	    <first_name>Al</first_name>
+	    <last_name>Pacino</last_name>
+	    <birth_date>1940</birth_date>
+	    <role>Kelly</role>
+	</actor>
+	<actor  id='177' >
+	    <first_name>Russel</first_name>
+	    <last_name>Crowe</last_name>
+	    <birth_date>1964</birth_date>
+	    <role>Patron Nightclub</role>
+	</actor>
+
+  </movie>

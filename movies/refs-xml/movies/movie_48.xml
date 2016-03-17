@@ -1,0 +1,29 @@
+  <movie>
+    <title>King of New York</title>
+    <year>1990</year>
+    <genre>drama</genre>
+    <summary>L'histoire d'un gangster au grand coeur mais aux méthodes définitives, surlast_namemé par le presse The King of New York et qui rêve de fonder un hôpital, confronté a des policiers opiniâtres qui ont juré de l'abattre...</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='122' >
+	</director>
+	<actor  id='63' >
+	    <role>Jimmy Jump</role>
+	</actor>
+	<actor  id='97' >
+	    <role>Frank White</role>
+	</actor>
+	<actor  id='124' >
+	    <role>Thomas Flanigan</role>
+	</actor>
+	<actor  id='131' >
+	    <role>Dennis Gilley</role>
+	</actor>
+	<actor  id='132' >
+	    <role>Thomas Flanigan</role>
+	</actor>
+	<actor  id='217' >
+	    <role>Test tube</role>
+	</actor>
+
+  </movie>

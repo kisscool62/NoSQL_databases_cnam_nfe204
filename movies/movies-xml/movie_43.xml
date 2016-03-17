@@ -1,0 +1,39 @@
+  <movie>
+    <title>Le cinquième élément</title>
+    <year>1997</year>
+    <genre>Science-fiction</genre>
+    <summary>Au XXIIIème siècle, dans un univers étrange et coloré, où tout espoir de survie est impossible sans la
+	 découverte du Cinquième Elément, un héros peu ordinaire affronte le mal pour sauver l'humanité. </summary>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='111' >
+	    <last_name>Besson</last_name>
+	    <first_name>Luc</first_name>
+	    <birth_date>1959</birth_date>
+	</director>
+	<actor  id='27' >
+	    <first_name>Bruce</first_name>
+	    <last_name>Willis</last_name>
+	    <birth_date>1955</birth_date>
+	    <role>Major Korben Dalla</role>
+	</actor>
+	<actor  id='112' >
+	    <first_name>Milla</first_name>
+	    <last_name>Jovovich</last_name>
+	    <birth_date>1975</birth_date>
+	    <role>Leeloo</role>
+	</actor>
+	<actor  id='116' >
+	    <first_name>Gary</first_name>
+	    <last_name>Oldman</last_name>
+	    <birth_date>1958</birth_date>
+	    <role>Jean-Baptiste Emmanuel Zorg</role>
+	</actor>
+	<actor  id='117' >
+	    <first_name>Ian</first_name>
+	    <last_name>Holm</last_name>
+	    <birth_date>1931</birth_date>
+	    <role>Vito Cornelius</role>
+	</actor>
+
+  </movie>

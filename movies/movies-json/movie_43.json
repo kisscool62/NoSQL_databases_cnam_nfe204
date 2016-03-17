@@ -1,0 +1,44 @@
+{
+"_id": "movie:43",
+"title": "Le cinquième élément",
+"year": 1997,
+"genre": "Science-fiction",
+"summary": "Au XXIIIème siècle, dans un univers étrange et coloré, où tout espoir de survie est impossible sans la découverte du Cinquième Elément, un héros peu ordinaire affronte le mal pour sauver l'humanité. ",
+"country": "FR",
+"director": 	{
+	"_id": "artist:111",
+	"last_name": "Besson",
+	"first_name": "Luc",
+	"birth_date": "1959"	
+	},
+"actors": [
+	{
+	"_id": "artist:27",
+	"first_name": "Bruce",
+	"last_name": "Willis",
+	"birth_date": "1955",
+	"role": "Major Korben Dalla"	
+	},
+	{
+	"_id": "artist:112",
+	"first_name": "Milla",
+	"last_name": "Jovovich",
+	"birth_date": "1975",
+	"role": "Leeloo"	
+	},
+	{
+	"_id": "artist:116",
+	"first_name": "Gary",
+	"last_name": "Oldman",
+	"birth_date": "1958",
+	"role": "Jean-Baptiste Emmanuel Zorg"	
+	},
+	{
+	"_id": "artist:117",
+	"first_name": "Ian",
+	"last_name": "Holm",
+	"birth_date": "1931",
+	"role": "Vito Cornelius"	
+	}
+	]
+}

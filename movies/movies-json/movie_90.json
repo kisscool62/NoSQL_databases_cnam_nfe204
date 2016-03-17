@@ -1,0 +1,58 @@
+{
+"_id": "movie:90",
+"title": "The Dark Knight Rises",
+"year": 2012,
+"genre": "Science-fiction",
+"summary": "Il y a huit ans, Batman a disparu dans la nuit : lui qui était un héros est alors devenu un fugitif. S'accusant de la mort du procureur-adjoint Harvey Dent, le Chevalier Noir a tout sacrifié au last_name de ce que le commissaire Gordon et lui-même considéraient être une noble cause. Et leurs actions conjointes se sont avérées efficaces pour un temps puisque la criminalité a été éradiquée à Gotham City grâce à l'arsenal de lois répressif initié par Dent.Mais c'est un chat – aux intentions obscures – aussi rusé que voleur qui va tout bouleverser. À moins que ce ne soit l'arrivée à Gotham de Bane, terroriste masqué, qui compte bien arracher Bruce à l'exil qu'il s'est imposé. Pourtant, même si ce dernier est prêt à endosser de nouveau la cape et le casque du Chevalier Noir, Batman n'est peut-être plus de taille à affronter Bane…",
+"country": "USA",
+"director": 	{
+	"_id": "artist:266",
+	"last_name": "Nolan",
+	"first_name": "Christopher",
+	"birth_date": "1970"	
+	},
+"actors": [
+	{
+	"_id": "artist:22",
+	"first_name": "Morgan",
+	"last_name": "Freeman",
+	"birth_date": "1937",
+	"role": "Lucius Fox"	
+	},
+	{
+	"_id": "artist:116",
+	"first_name": "Gary",
+	"last_name": "Oldman",
+	"birth_date": "1958",
+	"role": "Commissioner Gordon"	
+	},
+	{
+	"_id": "artist:268",
+	"first_name": "Anne",
+	"last_name": "Hathaway",
+	"birth_date": "1982",
+	"role": "Selina"	
+	},
+	{
+	"_id": "artist:269",
+	"first_name": "Michael",
+	"last_name": "Caine",
+	"birth_date": "1933",
+	"role": "Alfred"	
+	},
+	{
+	"_id": "artist:271",
+	"first_name": "Marion",
+	"last_name": "Cotillard",
+	"birth_date": "1975",
+	"role": "Miranda"	
+	},
+	{
+	"_id": "artist:274",
+	"first_name": "Christian",
+	"last_name": "Bale",
+	"birth_date": "1974",
+	"role": "Bruce Wayne / Batman"	
+	}
+	]
+}

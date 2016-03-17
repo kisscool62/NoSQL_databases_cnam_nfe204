@@ -1,0 +1,23 @@
+{
+"_id": "movie:15",
+"title": "L'armée des douze singes",
+"year": 1995,
+"genre": "Science-fiction",
+"summary": null,
+"country": "USA",
+"director": 	{
+	"_id": "artist:33",
+	"last_name": "Gilliam",
+	"first_name": "Terry",
+	"birth_date": "1940"	
+	},
+"actors": [
+	{
+	"_id": "artist:27",
+	"first_name": "Bruce",
+	"last_name": "Willis",
+	"birth_date": "1955",
+	"role": "Cole"	
+	}
+	]
+}

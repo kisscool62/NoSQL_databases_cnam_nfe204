@@ -1,0 +1,33 @@
+{
+    "_id": "movie:47",
+    "title": "Spider-Man",
+    "year": "2002",
+    "genre": "Action",
+    "summary": "Orphelin, Peter Parker est élevé par sa tante May et son oncle Ben dans le quartier Queens de New York. Tout en poursuivant ses études à l'université, il trouve un emploi de photographe au journal Daily Bugle. Il partage son appartement avec Harry Osborn, son meilleur ami, et rêve de séduire la belle Mary Jane.Cependant, après avoir été mordu par une araignée génétiquement modifiée, Peter voit son agilité et sa force s'accroître et se découvre des pouvoirs surnaturels. Devenu Spider-Man, il décide d'utiliser ses nouvelles capacités au service du bien.Au même moment, le père de Harry, le richissime industriel Norman Osborn, est victime d'un accident chimique qui a démesurément augmenté ses facultés intellectuelles et sa force, mais l'a rendu fou. Il est devenu le Bouffon Vert, une créature démoniaque qui menace la ville. Entre lui et Spider-Man, une lutte sans merci s'engage.",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:123"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:124",
+	    "role": "Spider-Man"	
+	},
+	{
+	    "_id": "artist:125",
+	    "role": "Norman Osborn"	
+	},
+	{
+	    "_id": "artist:126",
+	    "role": "Mary Jane Watson"	
+	},
+	{
+	    "_id": "artist:127",
+	    "role": "Oncle Ben"	
+	},
+	{
+	    "_id": "artist:128",
+	    "role": "Tante May"	
+	}
+	]
+}

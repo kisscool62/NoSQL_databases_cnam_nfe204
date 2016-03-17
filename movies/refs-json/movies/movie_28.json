@@ -1,0 +1,16 @@
+{
+    "_id": "movie:28",
+    "title": "Le monde perdu",
+    "year": "1997",
+    "genre": "Horreur",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:45"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:57",
+	    "role": "Dr. Ian Malcolm"	
+	}
+	]
+}

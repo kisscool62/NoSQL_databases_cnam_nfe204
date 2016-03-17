@@ -1,0 +1,33 @@
+{
+    "_id": "movie:57",
+    "title": "Jackie Brown",
+    "year": "1997",
+    "genre": "crime",
+    "summary": "Jackie Brown, hôtesse de l'air, arrondit ses fins de mois en convoyant de l'argent liquide pour le compte d'un trafiquant d'armes, Ordell Robbie. Un jour, un agent federal et un policier de Los Angeles la cueillent à l'aéroport. Ils comptent sur elle pour faire tomber le trafiquant. Jackie échafaude alors un plan audacieux pour doubler tout le monde lors d'un prochain transfert qui porte sur la modeste somme de cinq cent mille dollars. Mais il lui faudra compter avec les complices d'Ordell, qui ont des méthodes plutôt expéditives.",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:37"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:167",
+	    "role": "Luis Gara"	
+	},
+	{
+	    "_id": "artist:168",
+	    "role": "Jackie Brown"	
+	},
+	{
+	    "_id": "artist:169",
+	    "role": "Melanie"	
+	},
+	{
+	    "_id": "artist:170",
+	    "role": "Ray Nicolette"	
+	},
+	{
+	    "_id": "artist:212",
+	    "role": "Ordell Robbie"	
+	}
+	]
+}

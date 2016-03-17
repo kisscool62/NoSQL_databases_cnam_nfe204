@@ -1,0 +1,47 @@
+  <movie>
+    <title>The Matrix Revolutions</title>
+    <year>2003</year>
+    <genre>Science-fiction</genre>
+    <summary>La longue quête de liberté des rebelles culmine en une bataille finale explosive. Tandis que l'armée des Machines sème la désolation sur Zion, ses citoyens organisent une défense acharnée. Mais pourront-ils retenir les nuées implacables des Sentinelles en attendant que Neo s'approprie l'ensemble de ses pouvoirs et mette fin à la guerre ?
+	L'agent Smith est quant à lui parvenu à prendre possession de l'esprit de Bane, l'un des membres de l'équipage de l'aéroglisseur. De plus en plus puissant, il est désormais incontrôlable et n'obéit plus aux Machines : il menace de détruire leur empire ainsi que le monde réel et la Matrice...
+	
+		</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='135' >
+	    <last_name>Phoenix</last_name>
+	    <first_name>Joaquin</first_name>
+	    <birth_date>1974</birth_date>
+	</director>
+	<actor  id='62' >
+	    <first_name>Keanu</first_name>
+	    <last_name>Reeves</last_name>
+	    <birth_date>1964</birth_date>
+	    <role>Neo</role>
+	</actor>
+	<actor  id='63' >
+	    <first_name>Laurence</first_name>
+	    <last_name>Fishburne</last_name>
+	    <birth_date>1961</birth_date>
+	    <role>Morpheus</role>
+	</actor>
+	<actor  id='134' >
+	    <first_name>Mark</first_name>
+	    <last_name>Wahlberg</last_name>
+	    <birth_date>1971</birth_date>
+	    <role>Agent Smith</role>
+	</actor>
+	<actor  id='136' >
+	    <first_name>Charlize</first_name>
+	    <last_name>Theron</last_name>
+	    <birth_date>1975</birth_date>
+	    <role>Trinity</role>
+	</actor>
+	<actor  id='137' >
+	    <first_name>James</first_name>
+	    <last_name>Caan</last_name>
+	    <birth_date>1940</birth_date>
+	    <role>L'Oracle</role>
+	</actor>
+
+  </movie>

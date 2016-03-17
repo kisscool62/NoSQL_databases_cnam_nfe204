@@ -1,0 +1,37 @@
+{
+"_id": "movie:74",
+"title": "Skyfall",
+"year": 1012,
+"genre": "Action",
+"summary": "Lorsque la dernière mission de Bond tourne mal, plusieurs agents infiltrés se retrouvent exposés dans le monde entier. Le MI6 est attaqué, et M est obligée de relocaliser l’Agence. Ces événements ébranlent son autorité, et elle est remise en cause par Mallory, le nouveau président de l’ISC, le comité chargé du renseignement et de la sécurité. Le MI6 est à présent sous le coup d’une double menace, intérieure et extérieure. Il ne reste à M qu’un seul allié de confiance vers qui se tourner : Bond. Plus que jamais, 007 va devoir agir dans l’ombre. Avec l’aide d’Eve, un agent de terrain, il se lance sur la piste du mystérieux Silva, dont il doit identifier coûte que coûte l’objectif secret et mortel… ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:17",
+	"last_name": "Mendes",
+	"first_name": "Sam",
+	"birth_date": "1965"	
+	},
+"actors": [
+	{
+	"_id": "artist:247",
+	"first_name": "Daniel",
+	"last_name": "Craig",
+	"birth_date": "1968",
+	"role": "James Bond"	
+	},
+	{
+	"_id": "artist:249",
+	"first_name": "Judi",
+	"last_name": "Bench",
+	"birth_date": "1934",
+	"role": "M"	
+	},
+	{
+	"_id": "artist:250",
+	"first_name": "Javier",
+	"last_name": "Bardem",
+	"birth_date": "1969",
+	"role": "Silva"	
+	}
+	]
+}

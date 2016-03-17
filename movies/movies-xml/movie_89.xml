@@ -1,0 +1,49 @@
+  <movie>
+    <title>The Dark Knight</title>
+    <year>2008</year>
+    <genre>Science-fiction</genre>
+    <summary>Dans ce nouveau volet, Batman augmente les mises dans sa guerre contre le crime. Avec l'appui du lieutenant de police Jim Gordon et du procureur de Gotham, Harvey Dent, Batman vise à éradiquer le crime organisé qui pullule dans la ville. Leur association est très efficace mais elle sera bientôt bouleversée par le chaos déclenché par un criminel extraordinaire que les citoyens de Gotham connaissent sous le last_name de Joker. </summary>
+    <country>USA</country>
+	<director  id='266' >
+	    <last_name>Nolan</last_name>
+	    <first_name>Christopher</first_name>
+	    <birth_date>1970</birth_date>
+	</director>
+	<actor  id='22' >
+	    <first_name>Morgan</first_name>
+	    <last_name>Freeman</last_name>
+	    <birth_date>1937</birth_date>
+	    <role>Lucius Fox</role>
+	</actor>
+	<actor  id='116' >
+	    <first_name>Gary</first_name>
+	    <last_name>Oldman</last_name>
+	    <birth_date>1958</birth_date>
+	    <role>Gordon</role>
+	</actor>
+	<actor  id='269' >
+	    <first_name>Michael</first_name>
+	    <last_name>Caine</last_name>
+	    <birth_date>1933</birth_date>
+	    <role>Alfred</role>
+	</actor>
+	<actor  id='274' >
+	    <first_name>Christian</first_name>
+	    <last_name>Bale</last_name>
+	    <birth_date>1974</birth_date>
+	    <role>Bruce Wayne / Batman</role>
+	</actor>
+	<actor  id='276' >
+	    <first_name>Heath</first_name>
+	    <last_name>Ledger</last_name>
+	    <birth_date>1979</birth_date>
+	    <role>Joker</role>
+	</actor>
+	<actor  id='277' >
+	    <first_name>Maggie</first_name>
+	    <last_name>Gyllenhaal</last_name>
+	    <birth_date>1977</birth_date>
+	    <role>Rachel</role>
+	</actor>
+
+  </movie>

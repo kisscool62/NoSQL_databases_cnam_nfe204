@@ -1,0 +1,23 @@
+{
+"_id": "movie:53",
+"title": "Bad Lieutenant",
+"year": 1992,
+"genre": "drama",
+"summary": "La descente aux enfers d'un flic pourri qui enquete sur le viol d'une jolie religieuse.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:122",
+	"last_name": "Ferrara",
+	"first_name": "Abel",
+	"birth_date": "1951"	
+	},
+"actors": [
+	{
+	"_id": "artist:98",
+	"first_name": "Harvey",
+	"last_name": "Keitel",
+	"birth_date": "1939",
+	"role": "Le lieutenant"	
+	}
+	]
+}

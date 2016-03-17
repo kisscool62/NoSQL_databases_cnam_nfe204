@@ -1,0 +1,19 @@
+  <movie>
+    <title>Le monde perdu</title>
+    <year>1997</year>
+    <genre>Horreur</genre>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='45' >
+	    <last_name>Spielberg</last_name>
+	    <first_name>Steven</first_name>
+	    <birth_date>1946</birth_date>
+	</director>
+	<actor  id='57' >
+	    <first_name>Jeff</first_name>
+	    <last_name>Goldblum</last_name>
+	    <birth_date>1952</birth_date>
+	    <role>Dr. Ian Malcolm</role>
+	</actor>
+
+  </movie>

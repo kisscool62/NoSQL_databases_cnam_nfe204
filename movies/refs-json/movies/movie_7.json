@@ -1,0 +1,21 @@
+{
+    "_id": "movie:7",
+    "title": "American Beauty",
+    "year": "1999",
+    "genre": "Comédie",
+    "summary": "Lester Burnham, sa femme Carolyn et leur fille Jane mènent apparemment une vie des plus heureuses dans leur belle banlieue. Mais derrière cette respectable façade se tisse une étrange et grinçante tragi-comédie familiale où désirs inavoués, frustrations et violences refoulées conduiront inexorablement un homme vers la mort. ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:17"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:18",
+	    "role": "Lester Burnham"	
+	},
+	{
+	    "_id": "artist:19",
+	    "role": "Carolyn Burnham"	
+	}
+	]
+}

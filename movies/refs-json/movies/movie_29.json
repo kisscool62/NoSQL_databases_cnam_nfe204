@@ -1,0 +1,21 @@
+{
+    "_id": "movie:29",
+    "title": "Rain Man",
+    "year": "1988",
+    "genre": "drama",
+    "summary": "A la mort de son père, Charlie se voit déposséder de son héritage par un frère dont il ignorait l'existence, Raymond. Celui-ci est autiste et vit dans un hôpital psychiatrique. Charlie enlève Raymond afin de prouver qu'il est capable de s'en occuper et de toucher l'héritage. ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:79"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:65",
+	    "role": "Charlie Babbitt"	
+	},
+	{
+	    "_id": "artist:80",
+	    "role": "Raymond Babbitt"	
+	}
+	]
+}

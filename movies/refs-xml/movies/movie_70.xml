@@ -1,0 +1,16 @@
+  <movie>
+    <title>Taxi driver</title>
+    <year>1976</year>
+    <genre>drama</genre>
+    <summary>Vétéran de la Guerre du Vietnam, Travis Bickle est chauffeur de taxi dans la ville de New York. Ses rencontres nocturnes et la violence quotidienne dont il est témoin lui font peu à peu perdre la tête. Il se charge bientôt de délivrer une prostituée mineure de ses souteneurs.</summary>
+    <country>USA</country>
+	<director  id='241' >
+	</director>
+	<actor  id='51' >
+	    <role>1962</role>
+	</actor>
+	<actor  id='167' >
+	    <role>Travis Bickle </role>
+	</actor>
+
+  </movie>

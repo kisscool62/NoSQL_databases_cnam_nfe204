@@ -1,0 +1,16 @@
+{
+    "_id": "movie:15",
+    "title": "L'armée des douze singes",
+    "year": "1995",
+    "genre": "Science-fiction",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:33"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:27",
+	    "role": "Cole"	
+	}
+	]
+}

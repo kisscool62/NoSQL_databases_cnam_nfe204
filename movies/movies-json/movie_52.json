@@ -1,0 +1,51 @@
+{
+"_id": "movie:52",
+"title": "Usual suspects",
+"year": 1995,
+"genre": "Thriller",
+"summary": "Une légende du crime contraint cinq malfrats à aller s'aquitter d'une tâche très périlleuse. Ceux qui survivent pourront se partager un butin de 90 millions de dollars.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:142",
+	"last_name": "Dern",
+	"first_name": "Laura",
+	"birth_date": "1967"	
+	},
+"actors": [
+	{
+	"_id": "artist:18",
+	"first_name": "Kevin",
+	"last_name": "Spacey",
+	"birth_date": "1959",
+	"role": "Roger \"Verbal\" Kint"	
+	},
+	{
+	"_id": "artist:143",
+	"first_name": "Tom",
+	"last_name": "Hanks",
+	"birth_date": "1956",
+	"role": "Micheal McManus"	
+	},
+	{
+	"_id": "artist:144",
+	"first_name": "Tom",
+	"last_name": "Sizemore",
+	"birth_date": "1964",
+	"role": "Dean Keaton"	
+	},
+	{
+	"_id": "artist:145",
+	"first_name": "Matt",
+	"last_name": "Damon",
+	"birth_date": "1970",
+	"role": "Fred Fenster"	
+	},
+	{
+	"_id": "artist:146",
+	"first_name": "Matthew",
+	"last_name": "Modine",
+	"birth_date": "1959",
+	"role": "Todd Hockney"	
+	}
+	]
+}

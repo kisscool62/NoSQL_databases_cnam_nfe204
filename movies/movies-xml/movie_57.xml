@@ -1,0 +1,44 @@
+  <movie>
+    <title>Jackie Brown</title>
+    <year>1997</year>
+    <genre>crime</genre>
+    <summary>Jackie Brown, hôtesse de l'air, arrondit ses fins de mois en convoyant de l'argent liquide pour le compte d'un trafiquant d'armes, Ordell Robbie. Un jour, un agent federal et un policier de Los Angeles la cueillent à l'aéroport. Ils comptent sur elle pour faire tomber le trafiquant. Jackie échafaude alors un plan audacieux pour doubler tout le monde lors d'un prochain transfert qui porte sur la modeste somme de cinq cent mille dollars. Mais il lui faudra compter avec les complices d'Ordell, qui ont des méthodes plutôt expéditives.</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='37' >
+	    <last_name>Tarantino</last_name>
+	    <first_name>Quentin</first_name>
+	    <birth_date>1963</birth_date>
+	</director>
+	<actor  id='167' >
+	    <first_name>Robert</first_name>
+	    <last_name>De Niro</last_name>
+	    <birth_date>1943</birth_date>
+	    <role>Luis Gara</role>
+	</actor>
+	<actor  id='168' >
+	    <first_name>Pam</first_name>
+	    <last_name>Grier</last_name>
+	    <birth_date>1949</birth_date>
+	    <role>Jackie Brown</role>
+	</actor>
+	<actor  id='169' >
+	    <first_name>Bridget</first_name>
+	    <last_name>Fonda</last_name>
+	    <birth_date>1964</birth_date>
+	    <role>Melanie</role>
+	</actor>
+	<actor  id='170' >
+	    <first_name>Michael</first_name>
+	    <last_name>Keaton</last_name>
+	    <birth_date>1951</birth_date>
+	    <role>Ray Nicolette</role>
+	</actor>
+	<actor  id='212' >
+	    <first_name>Samuel</first_name>
+	    <last_name>Jackson</last_name>
+	    <birth_date>1948</birth_date>
+	    <role>Ordell Robbie</role>
+	</actor>
+
+  </movie>

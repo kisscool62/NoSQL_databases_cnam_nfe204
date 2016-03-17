@@ -1,0 +1,23 @@
+{
+"_id": "movie:32",
+"title": "Le bon, la brute et le truand",
+"year": 1966,
+"genre": "Western",
+"summary": "Pendant la Guerre de Sécession, trois hommes, préférant s'intéresser à leur profit personnel, se lancent à la recherche d'un coffre contenant 200 000 dollars en pièces d'or volés à l'armée sudiste. Tuco sait que le trésor se trouve dans un cimetière, tandis que Joe connaît le last_name inscrit sur la pierre tombale qui sert de cache. Chacun a besoin de l'autre. Mais un troisième homme entre dans la course : Setenza, une brute qui n'hésite pas à massacrer femmes et enfants pour parvenir à ses fins.",
+"country": "IT",
+"director": 	{
+	"_id": "artist:219",
+	"last_name": "Leone",
+	"first_name": "Sergio",
+	"birth_date": "1929"	
+	},
+"actors": [
+	{
+	"_id": "artist:20",
+	"first_name": "Clint",
+	"last_name": "Eastwood",
+	"birth_date": "1930",
+	"role": null	
+	}
+	]
+}

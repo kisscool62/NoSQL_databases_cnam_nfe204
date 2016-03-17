@@ -1,0 +1,23 @@
+{
+"_id": "movie:19",
+"title": "Terminator",
+"year": 1984,
+"genre": "Science-fiction",
+"summary": "Deux creatures venues du futur debarquent sur terre. L'une d'entre elles, le Terminator, doit eliminer une certaine Sarah Connor, qui doit enfanter celui qui sera le chef d'un groupe de resistants. L'autre, Kyle Reese, est charge par les rebelles de defendre Sarah... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:6",
+	"last_name": "Cameron",
+	"first_name": "James",
+	"birth_date": "1954"	
+	},
+"actors": [
+	{
+	"_id": "artist:44",
+	"first_name": "Arnold",
+	"last_name": "Schwartzenegger",
+	"birth_date": "1947",
+	"role": "Terminator"	
+	}
+	]
+}

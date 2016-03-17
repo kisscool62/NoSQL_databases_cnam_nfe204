@@ -1,0 +1,33 @@
+{
+    "_id": "movie:31",
+    "title": "Les bronzés font du ski",
+    "year": "1979",
+    "genre": "Comédie",
+    "summary": "Apres avoir passe des vacances d'ete ensemble, Bernard, Nathalie, Gigi, Jerome, Popeye, Jean-Claude et Christiane se retrouvent aux sports d'hiver. Tous ont leurs problemes de coeur ou d'argent, mais il faut bien vivre avec. Avant de se separer, se perdre dans la montagne leur permet de gouter aux joies de la \"vraie vie\" paysanne... ",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:83"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:75",
+	    "role": "Nathalie Morin"	
+	},
+	{
+	    "_id": "artist:76",
+	    "role": "Christiane"	
+	},
+	{
+	    "_id": "artist:84",
+	    "role": "Jean-Claude Dus"	
+	},
+	{
+	    "_id": "artist:85",
+	    "role": "Jérôme"	
+	},
+	{
+	    "_id": "artist:86",
+	    "role": "Popeye"	
+	}
+	]
+}

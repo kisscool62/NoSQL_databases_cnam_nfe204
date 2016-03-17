@@ -1,0 +1,25 @@
+{
+    "_id": "movie:63",
+    "title": "Million Dollar Baby",
+    "year": "2005",
+    "genre": "drama",
+    "summary": "Une histoire d'amour tragique et platonique entre une boxeuse et un vieil entraîneur de trente ans son aîné.",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:20"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:20",
+	    "role": "Frankie Dunn"	
+	},
+	{
+	    "_id": "artist:22",
+	    "role": "Eddie Scrap-Iron Dupris"	
+	},
+	{
+	    "_id": "artist:224",
+	    "role": "Maggie Fitzerald"	
+	}
+	]
+}

@@ -1,0 +1,26 @@
+  <movie>
+    <title>Casino Royale</title>
+    <year>2006</year>
+    <genre>Action</genre>
+    <summary>Pour sa première mission, James Bond affronte le tout-puissant banquier privé du terrorisme international, Le Chiffre. Pour achever de le ruiner et démanteler le plus grand réseau criminel qui soit, Bond doit le battre lors d'une partie de poker à haut risque au Casino Royale. La très belle Vesper, attachée au Trésor, l'accompagne afin de veiller à ce que l'agent 007 prenne soin de l'argent du gouvernement britannique qui lui sert de mise, mais rien ne va se passer comme prévu.
+	Alors que Bond et Vesper s'efforcent d'échapper aux tentatives d'assassinat du Chiffre et de ses hommes, d'autres sentiments surgissent entre eux, ce qui ne fera que les rendre plus vulnérables... </summary>
+    <country>USA</country>
+	<director  id='246' >
+	    <last_name>Campbell</last_name>
+	    <first_name>Martin</first_name>
+	    <birth_date>1943</birth_date>
+	</director>
+	<actor  id='247' >
+	    <first_name>Daniel</first_name>
+	    <last_name>Craig</last_name>
+	    <birth_date>1968</birth_date>
+	    <role>James Bond</role>
+	</actor>
+	<actor  id='248' >
+	    <first_name>Eva</first_name>
+	    <last_name>Green</last_name>
+	    <birth_date>1980</birth_date>
+	    <role>Vesper Lynd</role>
+	</actor>
+
+  </movie>

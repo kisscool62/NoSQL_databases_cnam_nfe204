@@ -1,0 +1,23 @@
+  <movie>
+    <title>Impitoyable</title>
+    <year>1992</year>
+    <genre>Western</genre>
+    <summary>Légendaire hors-la-loi, William Munny s'est reconverti depuis onze ans en paisible fermier. Il
+	 reprend néanmoins les armes pour traquer deux tueurs en compagnie de son vieil ami Ned
+	 Logan. Mais ce dernier est capturé, puis éxécute. L'honneur et l'amitié imposent dès lors à
+	 Munny de redevenir une dernière fois le héros qu'il fut jadis... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='20' >
+	</director>
+	<actor  id='20' >
+	    <role>William Munny</role>
+	</actor>
+	<actor  id='21' >
+	    <role>Little Bill Dagget</role>
+	</actor>
+	<actor  id='22' >
+	    <role>Ned Logan</role>
+	</actor>
+
+  </movie>

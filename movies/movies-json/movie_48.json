@@ -1,0 +1,58 @@
+{
+"_id": "movie:48",
+"title": "King of New York",
+"year": 1990,
+"genre": "drama",
+"summary": "L'histoire d'un gangster au grand coeur mais aux méthodes définitives, surlast_namemé par le presse The King of New York et qui rêve de fonder un hôpital, confronté a des policiers opiniâtres qui ont juré de l'abattre...",
+"country": "USA",
+"director": 	{
+	"_id": "artist:122",
+	"last_name": "Ferrara",
+	"first_name": "Abel",
+	"birth_date": "1951"	
+	},
+"actors": [
+	{
+	"_id": "artist:63",
+	"first_name": "Laurence",
+	"last_name": "Fishburne",
+	"birth_date": "1961",
+	"role": "Jimmy Jump"	
+	},
+	{
+	"_id": "artist:97",
+	"first_name": "Christopher",
+	"last_name": "Walken",
+	"birth_date": "1943",
+	"role": "Frank White"	
+	},
+	{
+	"_id": "artist:124",
+	"first_name": "Wesley",
+	"last_name": "Snipes",
+	"birth_date": "1962",
+	"role": "Thomas Flanigan"	
+	},
+	{
+	"_id": "artist:131",
+	"first_name": "Matthieu",
+	"last_name": "Kassowitz",
+	"birth_date": "1967",
+	"role": "Dennis Gilley"	
+	},
+	{
+	"_id": "artist:132",
+	"first_name": "Vincent",
+	"last_name": "Cassel",
+	"birth_date": "1966",
+	"role": "Thomas Flanigan"	
+	},
+	{
+	"_id": "artist:217",
+	"first_name": "Steve",
+	"last_name": "Buscemi",
+	"birth_date": "1957",
+	"role": "Test tube"	
+	}
+	]
+}

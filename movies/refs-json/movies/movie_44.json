@@ -1,0 +1,25 @@
+{
+    "_id": "movie:44",
+    "title": "Léon",
+    "year": "1994",
+    "genre": "Action",
+    "summary": "\"Léon est un tueur. Un de la pire espèce. Il est introuvable, indétectable, pire qu'un sous-marin. Son ombre est comme une menace de danger permanent sur New York. Indestructible Léon ? Oui, jusqu'à ce qu'une petite souris pénètre son univers. Une toute petite souris aux yeux immenses...\" ",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:111"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:60",
+	    "role": "Léon"	
+	},
+	{
+	    "_id": "artist:116",
+	    "role": "Norman Stansfield"	
+	},
+	{
+	    "_id": "artist:118",
+	    "role": "Mathilda"	
+	}
+	]
+}

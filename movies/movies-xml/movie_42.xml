@@ -1,0 +1,42 @@
+  <movie>
+    <title>Jeanne d'Arc</title>
+    <year>1999</year>
+    <genre>Guerre</genre>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='111' >
+	    <last_name>Besson</last_name>
+	    <first_name>Luc</first_name>
+	    <birth_date>1959</birth_date>
+	</director>
+	<actor  id='80' >
+	    <first_name>Dustin</first_name>
+	    <last_name>Hoffman</last_name>
+	    <birth_date>1937</birth_date>
+	</actor>
+	<actor  id='112' >
+	    <first_name>Milla</first_name>
+	    <last_name>Jovovich</last_name>
+	    <birth_date>1975</birth_date>
+	    <role>Jeanne d'Arc</role>
+	</actor>
+	<actor  id='113' >
+	    <first_name>Fane</first_name>
+	    <last_name>Dunaway</last_name>
+	    <birth_date>1941</birth_date>
+	    <role>Yolande d'Aragon</role>
+	</actor>
+	<actor  id='114' >
+	    <first_name>John</first_name>
+	    <last_name>Malkovitch</last_name>
+	    <birth_date>1953</birth_date>
+	    <role>Charles VII</role>
+	</actor>
+	<actor  id='115' >
+	    <first_name>Tchky</first_name>
+	    <last_name>Karyo</last_name>
+	    <birth_date>1953</birth_date>
+	    <role>Dunois</role>
+	</actor>
+
+  </movie>

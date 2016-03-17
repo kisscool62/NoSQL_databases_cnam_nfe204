@@ -1,0 +1,21 @@
+  <movie>
+    <title>Pas de printemps pour Marnie</title>
+    <year>1964</year>
+    <genre>Thriller</genre>
+    <summary>Marnie est engagée comme secrétaire chez un editeur, Mark Rutland. Celui-ci amoureux d'elle, découvre
+	 qu'elle est kleptomane et l'oblige à l'épouser en la menaçant de la dénoncer. En s'apercevant que Marnie a
+	 la phobie de la cou leur rouge, Mark tente de remonter dans le passé de la jeune femme afin de comprendre
+	 les raisons de sa névrose. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='3' >
+	</director>
+	<actor  id='35' >
+	    <role>
+                       Mark R</role>
+	</actor>
+	<actor  id='95' >
+	    <role>Marnie Edgar</role>
+	</actor>
+
+  </movie>

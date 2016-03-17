@@ -1,0 +1,25 @@
+{
+    "_id": "movie:6",
+    "title": "Sleepy Hollow",
+    "year": "1999",
+    "genre": "Fantastique",
+    "summary": "Nouvelle Angleterre, 1799. A Sleepy Hollow, plusieurs cadavres sont retrouvés décapités. La                                      rumeur attribue ces meurtres à un cavalier lui-même sans tête. Mais le fin limier                                      new-yorkais Ichabod Crane ne croit pas en ses aberrations. Tombé sous le charme de la                                      vénéneuse Katrina, il mène son enquête au coeur des sortilèges de Sleepy Hollow.. ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:13"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:14",
+	    "role": "Constable Ichabod Crane"	
+	},
+	{
+	    "_id": "artist:96",
+	    "role": "Katrina Anne Van Tassel"	
+	},
+	{
+	    "_id": "artist:97",
+	    "role": "Le cavalier"	
+	}
+	]
+}

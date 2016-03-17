@@ -1,0 +1,17 @@
+{
+"_id": "movie:92",
+"title": "Nous trois ou rien",
+"year": 2015,
+"genre": "drama",
+"summary": "D’un petit village du sud de l’Iran aux cités parisiennes, Kheiron nous raconte le destin hors du commun de ses parents Hibat et Fereshteh, éternels optimistes, dans une comédie aux airs de conte universel qui évoque l’amour familial, le don de soi et surtout l’idéal d’un vivre-ensemble. ",
+"country": "FR",
+"director": 	{
+	"_id": "artist:281",
+	"last_name": " Kheiron",
+	"first_name": "Tabib",
+	"birth_date": null	
+	},
+"actors": [
+
+	]
+}

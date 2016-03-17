@@ -1,0 +1,17 @@
+{
+    "_id": "movie:11",
+    "title": "Piège de cristal",
+    "year": "1988",
+    "genre": "Action",
+    "summary": "John Mc Clane, policier new-yorkais, vient passer Noel a Los Angeles aupres de sa femme. Dans le building ou elle travaille, il se retrouve temoin de la prise en otage de tout le personnel par 12 terroristes. Objectif de ces derniers, vider les coffres de la societe. Cache mais isole, il entreprend de prevenir l'exterieur...",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:26"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:27",
+	    "role": "McClane"	
+	}
+	]
+}

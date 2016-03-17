@@ -1,0 +1,16 @@
+  <movie>
+    <title>Stalingrad</title>
+    <year>2001</year>
+    <genre>drama</genre>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='34' >
+	</director>
+	<actor  id='182' >
+	    <role>Vassili Zaïtzev</role>
+	</actor>
+	<actor  id='183' >
+	    <role>major König</role>
+	</actor>
+
+  </movie>

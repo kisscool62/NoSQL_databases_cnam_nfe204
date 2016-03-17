@@ -1,0 +1,32 @@
+  <movie>
+    <title>No country for old men</title>
+    <year>2007</year>
+    <genre>crime</genre>
+    <summary>A la frontière qui sépare le Texas du Mexique, les trafiquants de drogue ont depuis longtemps remplacé les voleurs de bétail. Lorsque Llewelyn Moss tombe sur une camionnette abandonnée, cernée de cadavres ensanglantés, il ne sait rien de ce qui a conduit à ce drame. Et quand il prend les deux millions de dollars qu'il découvre à l'intérieur du véhicule, il n'a pas la moindre idée de ce que cela va provoquer...
+	Moss a déclenché une réaction en chaîne d'une violence inouïe que le shérif Bell, un homme vieillissant et sans illusions, ne parviendra pas à contenir... </summary>
+    <country>USA</country>
+	<director  id='251' >
+	    <last_name>Coen</last_name>
+	    <first_name>Ethan</first_name>
+	    <birth_date>1957</birth_date>
+	</director>
+	<actor  id='250' >
+	    <first_name>Javier</first_name>
+	    <last_name>Bardem</last_name>
+	    <birth_date>1969</birth_date>
+	    <role>Anton Chigurh</role>
+	</actor>
+	<actor  id='252' >
+	    <first_name>Tommy Lee</first_name>
+	    <last_name>Jones</last_name>
+	    <birth_date>1946</birth_date>
+	    <role>Ed Tom Bell</role>
+	</actor>
+	<actor  id='253' >
+	    <first_name>Josh</first_name>
+	    <last_name>Brolin</last_name>
+	    <birth_date>1968</birth_date>
+	    <role>Llewelyn Moss</role>
+	</actor>
+
+  </movie>

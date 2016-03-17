@@ -1,0 +1,33 @@
+{
+    "_id": "movie:54",
+    "title": "Le parrain",
+    "year": "1972",
+    "genre": "drama",
+    "summary": "En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, \" parrain \" de cette famille, marie sa fille à un bookmaker. Sollozzo, \" parrain \" de la famille Tattaglia, propose à Don Vito une association dans le trafic de drogue, mais celui-ci refuse. Sonny, un de ses fils, y est quant à lui favorable.Afin de traiter avec Sonny, Sollozzo tente de faire tuer Don Vito, mais celui-ci en réchappe. Michael, le frère cadet de Sonny, recherche alors les commanditaires de l'attentat et tue Sollozzo et le chef de la police, en représailles.Michael part alors en Sicile, où il épouse Apollonia, mais celle-ci est assassinée à sa place. De retour à New York, Michael épouse Kay Adams et se prépare à devenir le successeur de son père...",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:64"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:151",
+	    "role": "Don Vito Corleone"	
+	},
+	{
+	    "_id": "artist:152",
+	    "role": "Micheal"	
+	},
+	{
+	    "_id": "artist:153",
+	    "role": "Sonny"	
+	},
+	{
+	    "_id": "artist:154",
+	    "role": "Tom Hagen"	
+	},
+	{
+	    "_id": "artist:155",
+	    "role": "Kay Adams"	
+	}
+	]
+}

@@ -1,0 +1,14 @@
+  <movie>
+    <title>Kagemusha</title>
+    <year>1980</year>
+    <genre>Guerre</genre>
+    <summary>Au XVIe siecle, Takeda, grand seigneur trouble par les guerres civiles de son pays, fait appel a
+	 un Kagemusha pour l'aider dans ses batailles. Takeda est blesse et avant de mourir, il exige que
+	 sa mort soit tenue secrete pendant trois ans afin d'eviter un eclatement du clan. Le Kagemusha
+	 devra le remplacer... </summary>
+    <country>JP</country>
+    <version>1</version>
+	<director  id='68' >
+	</director>
+
+  </movie>

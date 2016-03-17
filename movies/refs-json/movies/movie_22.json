@@ -1,0 +1,21 @@
+{
+    "_id": "movie:22",
+    "title": "Godzilla",
+    "year": "1998",
+    "genre": "Action",
+    "summary": "Issu des radiations atomiques engendrées par les essais nucléaires en Polynésie, un monstre gigantesque, aussi haut qu'un building, se dirige vers New York, semant le chaos sur son passage. Pour tenter de stopper cette créature destructrice, l'armée s'associe à une équipe de scientifiques américains et à un énigmatique enquêteur français... ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:58"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:59",
+	    "role": "Dr. Nikos Tatopoulos"	
+	},
+	{
+	    "_id": "artist:60",
+	    "role": "Philippe Roaché"	
+	}
+	]
+}

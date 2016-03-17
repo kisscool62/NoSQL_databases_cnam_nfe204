@@ -1,0 +1,18 @@
+  <movie>
+    <title>Heat</title>
+    <year>1995</year>
+    <genre>crime</genre>
+    <summary>La bande de Neil McCauley à laquelle est venu se greffer Waingro, une nouvelle recrue, attaque un fourgon blindé pour s'emparer d'une somme importante en obligations. Cependant, ce dernier tue froidement l'un des convoyeurs et Chris Shiherlis se retrouve obligé de &quot;terminer le travail&quot;. Neil tente d'éliminer Waingro, mais celui-ci parvient à s'échapper. Parallèlement, le lieutenant Vincent Hanna mène l'enquête...</summary>
+    <country>USA</country>
+	<director  id='175' >
+	    <last_name>Mann</last_name>
+	    <first_name>Michael</first_name>
+	    <birth_date>1943</birth_date>
+	</director>
+	<actor  id='167' >
+	    <first_name>Robert</first_name>
+	    <last_name>De Niro</last_name>
+	    <birth_date>1943</birth_date>
+	</actor>
+
+  </movie>

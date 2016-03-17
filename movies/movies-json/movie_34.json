@@ -1,0 +1,37 @@
+{
+"_id": "movie:34",
+"title": "Le retour du Jedi",
+"year": 1983,
+"genre": "Science-fiction",
+"summary": "Luke Skywalker s'introduit chez Jabba pour delivrer Han Solo et la princesse Leia, tandis que l'Empire reconstruit une deuxieme \"Etoile de la Mort\". Luke se rend ensuite au chevet de Yoda qui est mourant. Il lui apprend que Leia est sa soeur. Luke forme un commando pour attaquer l'Etoile, tandis qu'il affronte son pere, Darth Vador... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:91",
+	"last_name": "Marquand",
+	"first_name": "Richard",
+	"birth_date": "1938"	
+	},
+"actors": [
+	{
+	"_id": "artist:24",
+	"first_name": "Harrison",
+	"last_name": "Ford",
+	"birth_date": "1942",
+	"role": "Han Solo"	
+	},
+	{
+	"_id": "artist:92",
+	"first_name": "Mark",
+	"last_name": "Hamill",
+	"birth_date": "1951",
+	"role": "Luke Skywalker"	
+	},
+	{
+	"_id": "artist:93",
+	"first_name": "Carrie",
+	"last_name": "Fisher",
+	"birth_date": "1956",
+	"role": "Princesse Leia"	
+	}
+	]
+}

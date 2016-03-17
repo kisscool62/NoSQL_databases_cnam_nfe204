@@ -1,0 +1,13 @@
+  <movie>
+    <title>Le monde perdu</title>
+    <year>1997</year>
+    <genre>Horreur</genre>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='45' >
+	</director>
+	<actor  id='57' >
+	    <role>Dr. Ian Malcolm</role>
+	</actor>
+
+  </movie>

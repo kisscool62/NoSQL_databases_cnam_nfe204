@@ -1,0 +1,25 @@
+{
+    "_id": "movie:41",
+    "title": "La mort aux trousses",
+    "year": "1959",
+    "genre": "Suspense",
+    "summary": "Roger Thornhill, publiciste, est pris dans le hall de son hôtel pour un certain Kaplan, un espion. Deux hommes tentent de le tuer et quand il retrouve l'un de ses agresseurs, celui-ci est assassiné devant ses yeux. Pris pour un meurtrier, il est obligé de fuir vers Chicago... ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:3"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:105",
+	    "role": "Roger O. Thornhill"	
+	},
+	{
+	    "_id": "artist:106",
+	    "role": "Eve Kendall"	
+	},
+	{
+	    "_id": "artist:107",
+	    "role": "Philipp Vandamm"	
+	}
+	]
+}

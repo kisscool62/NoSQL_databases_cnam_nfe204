@@ -1,0 +1,20 @@
+  <movie>
+    <title>Bad Lieutenant</title>
+    <year>1992</year>
+    <genre>drama</genre>
+    <summary>La descente aux enfers d'un flic pourri qui enquete sur le viol d'une jolie religieuse.</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='122' >
+	    <last_name>Ferrara</last_name>
+	    <first_name>Abel</first_name>
+	    <birth_date>1951</birth_date>
+	</director>
+	<actor  id='98' >
+	    <first_name>Harvey</first_name>
+	    <last_name>Keitel</last_name>
+	    <birth_date>1939</birth_date>
+	    <role>Le lieutenant</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,29 @@
+{
+    "_id": "movie:43",
+    "title": "Le cinquième élément",
+    "year": "1997",
+    "genre": "Science-fiction",
+    "summary": "Au XXIIIème siècle, dans un univers étrange et coloré, où tout espoir de survie est impossible sans la découverte du Cinquième Elément, un héros peu ordinaire affronte le mal pour sauver l'humanité. ",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:111"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:27",
+	    "role": "Major Korben Dalla"	
+	},
+	{
+	    "_id": "artist:112",
+	    "role": "Leeloo"	
+	},
+	{
+	    "_id": "artist:116",
+	    "role": "Jean-Baptiste Emmanuel Zorg"	
+	},
+	{
+	    "_id": "artist:117",
+	    "role": "Vito Cornelius"	
+	}
+	]
+}

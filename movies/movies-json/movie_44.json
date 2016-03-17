@@ -1,0 +1,37 @@
+{
+"_id": "movie:44",
+"title": "Léon",
+"year": 1994,
+"genre": "Action",
+"summary": "\"Léon est un tueur. Un de la pire espèce. Il est introuvable, indétectable, pire qu'un sous-marin. Son ombre est comme une menace de danger permanent sur New York. Indestructible Léon ? Oui, jusqu'à ce qu'une petite souris pénètre son univers. Une toute petite souris aux yeux immenses...\" ",
+"country": "FR",
+"director": 	{
+	"_id": "artist:111",
+	"last_name": "Besson",
+	"first_name": "Luc",
+	"birth_date": "1959"	
+	},
+"actors": [
+	{
+	"_id": "artist:60",
+	"first_name": "Jean",
+	"last_name": "Reno",
+	"birth_date": "1948",
+	"role": "Léon"	
+	},
+	{
+	"_id": "artist:116",
+	"first_name": "Gary",
+	"last_name": "Oldman",
+	"birth_date": "1958",
+	"role": "Norman Stansfield"	
+	},
+	{
+	"_id": "artist:118",
+	"first_name": "Natalie",
+	"last_name": "Portman",
+	"birth_date": "1981",
+	"role": "Mathilda"	
+	}
+	]
+}

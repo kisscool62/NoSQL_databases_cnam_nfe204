@@ -1,0 +1,37 @@
+{
+"_id": "movie:63",
+"title": "Million Dollar Baby",
+"year": 2005,
+"genre": "drama",
+"summary": "Une histoire d'amour tragique et platonique entre une boxeuse et un vieil entraîneur de trente ans son aîné.",
+"country": "USA",
+"director": 	{
+	"_id": "artist:20",
+	"last_name": "Eastwood",
+	"first_name": "Clint",
+	"birth_date": "1930"	
+	},
+"actors": [
+	{
+	"_id": "artist:20",
+	"first_name": "Clint",
+	"last_name": "Eastwood",
+	"birth_date": "1930",
+	"role": "Frankie Dunn"	
+	},
+	{
+	"_id": "artist:22",
+	"first_name": "Morgan",
+	"last_name": "Freeman",
+	"birth_date": "1937",
+	"role": "Eddie Scrap-Iron Dupris"	
+	},
+	{
+	"_id": "artist:224",
+	"first_name": "Hillary",
+	"last_name": "Swank",
+	"birth_date": "1974",
+	"role": "Maggie Fitzerald"	
+	}
+	]
+}

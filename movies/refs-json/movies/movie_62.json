@@ -1,0 +1,20 @@
+{
+    "_id": "movie:62",
+    "title": "Stalingrad",
+    "year": "2001",
+    "genre": "drama",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:34"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:182",
+	    "role": "Vassili Zaïtzev"	
+	},
+	{
+	    "_id": "artist:183",
+	    "role": "major König"	
+	}
+	]
+}

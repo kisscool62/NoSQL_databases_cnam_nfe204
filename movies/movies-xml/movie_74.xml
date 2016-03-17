@@ -1,0 +1,31 @@
+  <movie>
+    <title>Skyfall</title>
+    <year>1012</year>
+    <genre>Action</genre>
+    <summary>Lorsque la dernière mission de Bond tourne mal, plusieurs agents infiltrés se retrouvent exposés dans le monde entier. Le MI6 est attaqué, et M est obligée de relocaliser l’Agence. Ces événements ébranlent son autorité, et elle est remise en cause par Mallory, le nouveau président de l’ISC, le comité chargé du renseignement et de la sécurité. Le MI6 est à présent sous le coup d’une double menace, intérieure et extérieure. Il ne reste à M qu’un seul allié de confiance vers qui se tourner : Bond. Plus que jamais, 007 va devoir agir dans l’ombre. Avec l’aide d’Eve, un agent de terrain, il se lance sur la piste du mystérieux Silva, dont il doit identifier coûte que coûte l’objectif secret et mortel… </summary>
+    <country>USA</country>
+	<director  id='17' >
+	    <last_name>Mendes</last_name>
+	    <first_name>Sam</first_name>
+	    <birth_date>1965</birth_date>
+	</director>
+	<actor  id='247' >
+	    <first_name>Daniel</first_name>
+	    <last_name>Craig</last_name>
+	    <birth_date>1968</birth_date>
+	    <role>James Bond</role>
+	</actor>
+	<actor  id='249' >
+	    <first_name>Judi</first_name>
+	    <last_name>Bench</last_name>
+	    <birth_date>1934</birth_date>
+	    <role>M</role>
+	</actor>
+	<actor  id='250' >
+	    <first_name>Javier</first_name>
+	    <last_name>Bardem</last_name>
+	    <birth_date>1969</birth_date>
+	    <role>Silva</role>
+	</actor>
+
+  </movie>

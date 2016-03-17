@@ -1,0 +1,37 @@
+{
+"_id": "movie:45",
+"title": "Nikita",
+"year": 1990,
+"genre": "Thriller",
+"summary": "Nikita, droguée et violente, est prise en mains par des psychiatres qui la rééduquent, la conditionnent, afin d'en faire une tueuse à la botte des Services Secrets. Plus tard, réalisant ce qu'elle est devenue, un pion sans vie privée que l'on manipule, elle tente d'échapper à ses commanditaires. ",
+"country": "FR",
+"director": 	{
+	"_id": "artist:111",
+	"last_name": "Besson",
+	"first_name": "Luc",
+	"birth_date": "1959"	
+	},
+"actors": [
+	{
+	"_id": "artist:115",
+	"first_name": "Tchky",
+	"last_name": "Karyo",
+	"birth_date": "1953",
+	"role": "Bob"	
+	},
+	{
+	"_id": "artist:119",
+	"first_name": "Anne",
+	"last_name": "Parillaud",
+	"birth_date": "1960",
+	"role": "Nikita"	
+	},
+	{
+	"_id": "artist:120",
+	"first_name": "Jean-Hughes",
+	"last_name": "Anglade",
+	"birth_date": "1955",
+	"role": "Marco"	
+	}
+	]
+}

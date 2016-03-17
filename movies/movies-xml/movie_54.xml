@@ -1,0 +1,51 @@
+  <movie>
+    <title>Le parrain</title>
+    <year>1972</year>
+    <genre>drama</genre>
+    <summary>En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone, &quot; parrain &quot; de cette famille, marie sa fille à un bookmaker. Sollozzo, &quot; parrain &quot; de la famille Tattaglia, propose à Don Vito une association dans le trafic de drogue, mais celui-ci refuse. Sonny, un de ses fils, y est quant à lui favorable.
+	Afin de traiter avec Sonny, Sollozzo tente de faire tuer Don Vito, mais celui-ci en réchappe. Michael, le frère cadet de Sonny, recherche alors les commanditaires de l'attentat et tue Sollozzo et le chef de la police, en représailles.
+	Michael part alors en Sicile, où il épouse Apollonia, mais celle-ci est assassinée à sa place. De retour à New York, Michael épouse Kay Adams et se prépare à devenir le successeur de son père...</summary>
+    <country>USA</country>
+	<director  id='181' >
+	    <last_name>Coppola</last_name>
+	    <first_name>Francis Ford</first_name>
+	    <birth_date>1940</birth_date>
+	</director>
+	<actor  id='137' >
+	    <first_name>James</first_name>
+	    <last_name>Caan</last_name>
+	    <birth_date>1940</birth_date>
+	    <role>Sonny Corleone</role>
+	</actor>
+	<actor  id='155' >
+	    <first_name>Sterling</first_name>
+	    <last_name>Hayden</last_name>
+	    <birth_date>1916</birth_date>
+	    <role>Capt. McCluskey</role>
+	</actor>
+	<actor  id='176' >
+	    <first_name>Al</first_name>
+	    <last_name>Pacino</last_name>
+	    <birth_date>1940</birth_date>
+	    <role>Michael Corleone</role>
+	</actor>
+	<actor  id='182' >
+	    <first_name>Marlon</first_name>
+	    <last_name>Brando</last_name>
+	    <birth_date>1924</birth_date>
+	    <role>Do Vito Corleone</role>
+	</actor>
+	<actor  id='183' >
+	    <first_name>Diane</first_name>
+	    <last_name>Keaton</last_name>
+	    <birth_date>1946</birth_date>
+	    <role>Kay Adams</role>
+	</actor>
+	<actor  id='184' >
+	    <first_name>Robert</first_name>
+	    <last_name>Duvall</last_name>
+	    <birth_date>1931</birth_date>
+	    <role>Tom Hagen</role>
+	</actor>
+
+  </movie>

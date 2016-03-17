@@ -1,0 +1,49 @@
+{
+    "_id": "movie:17",
+    "title": "Pulp fiction",
+    "year": "1994",
+    "genre": "Action",
+    "summary": "Pulp Fiction décrit l'odyssée sanglante et burlesque de petits malfrats dans la jungle de Hollywood, ou s'entrecroisent les destins de deux petits tueurs, d'un dangereux gangster marié à une camée, d'un boxeur roublard, de prêteurs sur gages sadiques, d'un caïd élégant et dévoué, d'un dealer bon mari et de deux tourtereaux à la gachette facile... ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:37"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:11",
+	    "role": "Vincent Vega"	
+	},
+	{
+	    "_id": "artist:27",
+	    "role": "Butch Coolidge"	
+	},
+	{
+	    "_id": "artist:37",
+	    "role": "Jimmy Dimmick"	
+	},
+	{
+	    "_id": "artist:38",
+	    "role": "Jules Winnfield"	
+	},
+	{
+	    "_id": "artist:39",
+	    "role": "Jody"	
+	},
+	{
+	    "_id": "artist:40",
+	    "role": "Mia Wallace"	
+	},
+	{
+	    "_id": "artist:97",
+	    "role": "Capt. Koons"	
+	},
+	{
+	    "_id": "artist:98",
+	    "role": "Winston \"The Wolf\" Wolfe"	
+	},
+	{
+	    "_id": "artist:99",
+	    "role": "Pumpkin (Ringo)"	
+	}
+	]
+}

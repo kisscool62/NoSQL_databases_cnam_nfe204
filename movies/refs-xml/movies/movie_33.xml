@@ -1,0 +1,23 @@
+  <movie>
+    <title>Psychose</title>
+    <year>1960</year>
+    <genre>Thriller</genre>
+    <summary>Après avoir volé 40 000 dollars, Marion Crane se rend dans un motel tenu par Norman Bates. Elle est
+	 poignardée sous sa douche par une femme. Norman fait disparaitre le corps et les affaires de la jeune
+	 femme. Mais Sam, le fiancé de Marion, inquiet de ne pas avoir de nouvelles, engage un détective pour la
+	 retrouver... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='3' >
+	</director>
+	<actor  id='88' >
+	    <role>Bates</role>
+	</actor>
+	<actor  id='89' >
+	    <role>Lila Crane</role>
+	</actor>
+	<actor  id='90' >
+	    <role>Marion Crane</role>
+	</actor>
+
+  </movie>

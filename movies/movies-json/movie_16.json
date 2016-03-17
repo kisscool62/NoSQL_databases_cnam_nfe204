@@ -1,0 +1,30 @@
+{
+"_id": "movie:16",
+"title": "Le last_name de la rose",
+"year": 1986,
+"genre": "crime",
+"summary": "En l'an 1327, dans une abbaye bénédictine, le moine franciscain Guillaume de Baskerville, accompagné de son jeune novice Adso, enquête sur de mystérieuses morts qui frappent la confrérie. Le secret semble résider dans la bibliothèque, où le vieux Jorge garde jalousement un livre jugé maudit. ",
+"country": "FR",
+"director": 	{
+	"_id": "artist:34",
+	"last_name": "Annaud",
+	"first_name": "Jean-Jacques",
+	"birth_date": "1943"	
+	},
+"actors": [
+	{
+	"_id": "artist:35",
+	"first_name": "Sean",
+	"last_name": "Connery",
+	"birth_date": "1930",
+	"role": "Baskerville"	
+	},
+	{
+	"_id": "artist:36",
+	"first_name": "Christian",
+	"last_name": "Slater",
+	"birth_date": "1969",
+	"role": "de Melk"	
+	}
+	]
+}

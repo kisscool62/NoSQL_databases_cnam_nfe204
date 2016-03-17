@@ -1,0 +1,19 @@
+  <movie>
+    <title>L'armée des douze singes</title>
+    <year>1995</year>
+    <genre>Science-fiction</genre>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='33' >
+	    <last_name>Gilliam</last_name>
+	    <first_name>Terry</first_name>
+	    <birth_date>1940</birth_date>
+	</director>
+	<actor  id='27' >
+	    <first_name>Bruce</first_name>
+	    <last_name>Willis</last_name>
+	    <birth_date>1955</birth_date>
+	    <role>Cole</role>
+	</actor>
+
+  </movie>

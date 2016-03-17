@@ -1,0 +1,33 @@
+{
+    "_id": "movie:52",
+    "title": "Usual suspects",
+    "year": "1995",
+    "genre": "Thriller",
+    "summary": "Une légende du crime contraint cinq malfrats à aller s'aquitter d'une tâche très périlleuse. Ceux qui survivent pourront se partager un butin de 90 millions de dollars.",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:142"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:18",
+	    "role": "Roger \"Verbal\" Kint"	
+	},
+	{
+	    "_id": "artist:143",
+	    "role": "Micheal McManus"	
+	},
+	{
+	    "_id": "artist:144",
+	    "role": "Dean Keaton"	
+	},
+	{
+	    "_id": "artist:145",
+	    "role": "Fred Fenster"	
+	},
+	{
+	    "_id": "artist:146",
+	    "role": "Todd Hockney"	
+	}
+	]
+}

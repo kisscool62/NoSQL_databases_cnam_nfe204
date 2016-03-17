@@ -1,0 +1,31 @@
+  <movie>
+    <title>Interstellar</title>
+    <year>2014</year>
+    <genre>Science-fiction</genre>
+    <summary>Le film raconte les aventures d’un groupe d’explorateurs qui utilisent une faille récemment découverte dans l’espace-temps afin de repousser les limites humaines et partir à la conquête des distances astrolast_nameiques dans un voyage interstellaire.</summary>
+    <country>USA</country>
+	<director  id='266' >
+	    <last_name>Nolan</last_name>
+	    <first_name>Christopher</first_name>
+	    <birth_date>1970</birth_date>
+	</director>
+	<actor  id='267' >
+	    <first_name>Mathew</first_name>
+	    <last_name>McConaughey</last_name>
+	    <birth_date>1969</birth_date>
+	    <role>Cooper</role>
+	</actor>
+	<actor  id='268' >
+	    <first_name>Anne</first_name>
+	    <last_name>Hathaway</last_name>
+	    <birth_date>1982</birth_date>
+	    <role> 	 Brand </role>
+	</actor>
+	<actor  id='269' >
+	    <first_name>Michael</first_name>
+	    <last_name>Caine</last_name>
+	    <birth_date>1933</birth_date>
+	    <role>Professor Brand</role>
+	</actor>
+
+  </movie>

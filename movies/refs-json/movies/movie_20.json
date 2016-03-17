@@ -1,0 +1,25 @@
+{
+    "_id": "movie:20",
+    "title": "Les dents de la mer",
+    "year": "1975",
+    "genre": "Horreur",
+    "summary": "Dans la station balnéaire d'Amityville, un requin géant frappe à plusieurs reprises. Soucieux d'une bonne saison touristique, le maire interdit au sherif Brody de fermer les plages. Une prime est offerte et le célèbre chasseur de requin Quint se lance avec Brody et l'ichtyologue Hooper à la poursuite du monstre... ",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:45"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:46",
+	    "role": "Martin Brody"	
+	},
+	{
+	    "_id": "artist:47",
+	    "role": "Quint"	
+	},
+	{
+	    "_id": "artist:48",
+	    "role": "Matt Hooper"	
+	}
+	]
+}

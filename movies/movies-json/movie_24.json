@@ -1,0 +1,44 @@
+{
+"_id": "movie:24",
+"title": "Mission: Impossible",
+"year": 1996,
+"genre": "Action",
+"summary": "Chargé d'une nouvelle mission, l'agent du contre espionnage Ethan Hunt tombe avec son équipe dans un piège sanglant. Seul survivant avec Claire, la jeune épouse de son regretté chef Jim Phelps, Ethan se retrouve accusé de trahison. En fuite, il prépare sa contre-attaque, recrutant l'homme de main Krieger et le pirate informatique Luther... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:64",
+	"last_name": "De Palma",
+	"first_name": "Brian",
+	"birth_date": "1940"	
+	},
+"actors": [
+	{
+	"_id": "artist:60",
+	"first_name": "Jean",
+	"last_name": "Reno",
+	"birth_date": "1948",
+	"role": "Franz Krieger"	
+	},
+	{
+	"_id": "artist:65",
+	"first_name": "Tom",
+	"last_name": "Cruise",
+	"birth_date": "1962",
+	"role": "Ethan Hunt"	
+	},
+	{
+	"_id": "artist:66",
+	"first_name": "John",
+	"last_name": "Voight",
+	"birth_date": "1938",
+	"role": "Jim Phelps"	
+	},
+	{
+	"_id": "artist:67",
+	"first_name": "Emmanuelle",
+	"last_name": "Bart",
+	"birth_date": "1965",
+	"role": "Claire Phelps"	
+	}
+	]
+}

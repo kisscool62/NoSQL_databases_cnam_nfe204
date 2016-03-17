@@ -1,0 +1,13 @@
+{
+    "_id": "movie:4",
+    "title": "Sacrifice",
+    "year": "1986",
+    "genre": "drama",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:9"	
+	},
+    "actors": [
+
+	]
+}

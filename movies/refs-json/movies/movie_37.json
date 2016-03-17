@@ -1,0 +1,21 @@
+{
+    "_id": "movie:37",
+    "title": "Eyes Wide Shut",
+    "year": "1999",
+    "genre": "Thriller",
+    "summary": "Un couple de bourgeois, cédant à la jalousie et à l'obsession sexuelle, entreprend un voyage psychologique à la recherche de son identité. Le mari, au bout de son périple nocturne, revenu de ses désirs, ne trouvera finalement auprès de son épouse qu'un compromis banal mais complice, les yeux ouverts à tout jamais sur un rêve impossible. ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:101"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:65",
+	    "role": "Docteur William \"Bill\" Harford"	
+	},
+	{
+	    "_id": "artist:102",
+	    "role": "Alice Harford"	
+	}
+	]
+}

@@ -1,0 +1,22 @@
+  <movie>
+    <title>Les affranchis</title>
+    <year>1990</year>
+    <genre>crime</genre>
+    <summary>Depuis sa plus tendre enfance, Henry Hill, né d'un père irlandais et d'une mère sicilienne, veut devenir gangster et appartenir à la Mafia. Adolescent dans les années cinquante, il commence par travailler pour le compte de Paul Cicero et voue une grande admiration pour Jimmy Conway, qui a fait du détournement de camions sa grande spécialité. Lucide et ambitieux, il contribue au casse des entrepôts de l'aéroport d'Idlewild et épouse Karen, une jeune Juive qu'il trompe régulièrement. Mais son implication dans le trafic de drogue le fera plonger...</summary>
+    <country>USA</country>
+	<director  id='241' >
+	</director>
+	<actor  id='167' >
+	    <role>James Conway</role>
+	</actor>
+	<actor  id='242' >
+	    <role>Henry Hill</role>
+	</actor>
+	<actor  id='243' >
+	    <role>Tommy DeVito</role>
+	</actor>
+	<actor  id='244' >
+	    <role>Karen Hill</role>
+	</actor>
+
+  </movie>

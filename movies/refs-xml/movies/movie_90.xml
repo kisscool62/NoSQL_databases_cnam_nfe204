@@ -1,0 +1,29 @@
+  <movie>
+    <title>The Dark Knight Rises</title>
+    <year>2012</year>
+    <genre>Science-fiction</genre>
+    <summary>Il y a huit ans, Batman a disparu dans la nuit : lui qui était un héros est alors devenu un fugitif. S'accusant de la mort du procureur-adjoint Harvey Dent, le Chevalier Noir a tout sacrifié au last_name de ce que le commissaire Gordon et lui-même considéraient être une noble cause. Et leurs actions conjointes se sont avérées efficaces pour un temps puisque la criminalité a été éradiquée à Gotham City grâce à l'arsenal de lois répressif initié par Dent.
+	Mais c'est un chat – aux intentions obscures – aussi rusé que voleur qui va tout bouleverser. À moins que ce ne soit l'arrivée à Gotham de Bane, terroriste masqué, qui compte bien arracher Bruce à l'exil qu'il s'est imposé. Pourtant, même si ce dernier est prêt à endosser de nouveau la cape et le casque du Chevalier Noir, Batman n'est peut-être plus de taille à affronter Bane…</summary>
+    <country>USA</country>
+	<director  id='266' >
+	</director>
+	<actor  id='22' >
+	    <role>Lucius Fox</role>
+	</actor>
+	<actor  id='116' >
+	    <role>Commissioner Gordon</role>
+	</actor>
+	<actor  id='268' >
+	    <role>Selina</role>
+	</actor>
+	<actor  id='269' >
+	    <role>Alfred</role>
+	</actor>
+	<actor  id='271' >
+	    <role>Miranda</role>
+	</actor>
+	<actor  id='274' >
+	    <role>Bruce Wayne / Batman</role>
+	</actor>
+
+  </movie>

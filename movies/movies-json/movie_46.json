@@ -1,0 +1,37 @@
+{
+"_id": "movie:46",
+"title": "Le grand bleu",
+"year": 1988,
+"genre": "drama",
+"summary": "Jacques Mayol et Enzo Molinari se connaissent depuis l'enfance. Tous deux experts en apnée, s'affrontent continuellement pour obtenir le record du monde de plongée. Toujours en rivalité, les deux hommes descendent de plus en plus profond, au risque de leurs vies. Le film est ressorti en janvier 89 en version longue d'une durée de 2h40. ",
+"country": "FR",
+"director": 	{
+	"_id": "artist:111",
+	"last_name": "Besson",
+	"first_name": "Luc",
+	"birth_date": "1959"	
+	},
+"actors": [
+	{
+	"_id": "artist:39",
+	"first_name": "Rosanna",
+	"last_name": "Arquette",
+	"birth_date": "1959",
+	"role": "Johanna"	
+	},
+	{
+	"_id": "artist:60",
+	"first_name": "Jean",
+	"last_name": "Reno",
+	"birth_date": "1948",
+	"role": "Enzo Molinari"	
+	},
+	{
+	"_id": "artist:121",
+	"first_name": "Jean-Marc",
+	"last_name": "Barr",
+	"birth_date": "1960",
+	"role": "Jacques Mayol"	
+	}
+	]
+}

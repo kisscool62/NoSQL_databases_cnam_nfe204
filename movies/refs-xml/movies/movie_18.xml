@@ -1,0 +1,20 @@
+  <movie>
+    <title>Mary à tout prix</title>
+    <year>1998</year>
+    <genre>Comédie</genre>
+    <summary>Pour retrouver l'amour de sa jeunesse, la belle Mary, Ted-le-looser engage Pat Healy, un
+	 privé. Subjugé par la jeune femme, ce dernier tente de la séduire en se faisant passer pour un
+	 architecte. Il cache la vérité à Ted et fait cause commune avec Tucker, un autre prétendant,
+	 pour se débarrasser de l'encombrant Ted... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='41' >
+	</director>
+	<actor  id='42' >
+	    <role>Mary Jensen Matthews</role>
+	</actor>
+	<actor  id='43' >
+	    <role>Pat Healy</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,29 @@
+  <movie>
+    <title>Godzilla</title>
+    <year>1998</year>
+    <genre>Action</genre>
+    <summary>Issu des radiations atomiques engendrées par les essais nucléaires en Polynésie, un monstre
+	 gigantesque, aussi haut qu'un building, se dirige vers New York, semant le chaos sur son
+	 passage. Pour tenter de stopper cette créature destructrice, l'armée s'associe à une équipe de
+	 scientifiques américains et à un énigmatique enquêteur français... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='58' >
+	    <last_name>Emmerich</last_name>
+	    <first_name>Roland</first_name>
+	    <birth_date>1955</birth_date>
+	</director>
+	<actor  id='59' >
+	    <first_name>Matthew</first_name>
+	    <last_name>Broderick</last_name>
+	    <birth_date>1962</birth_date>
+	    <role>Dr. Nikos Tatopoulos</role>
+	</actor>
+	<actor  id='60' >
+	    <first_name>Jean</first_name>
+	    <last_name>Reno</last_name>
+	    <birth_date>1948</birth_date>
+	    <role>Philippe Roaché</role>
+	</actor>
+
+  </movie>

@@ -1,0 +1,30 @@
+  <movie>
+    <title>Pas de printemps pour Marnie</title>
+    <year>1964</year>
+    <genre>Thriller</genre>
+    <summary>Marnie est engagée comme secrétaire chez un editeur, Mark Rutland. Celui-ci amoureux d'elle, découvre
+	 qu'elle est kleptomane et l'oblige à l'épouser en la menaçant de la dénoncer. En s'apercevant que Marnie a
+	 la phobie de la cou leur rouge, Mark tente de remonter dans le passé de la jeune femme afin de comprendre
+	 les raisons de sa névrose. </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='3' >
+	    <last_name>Hitchcock</last_name>
+	    <first_name>Alfred</first_name>
+	    <birth_date>1899</birth_date>
+	</director>
+	<actor  id='35' >
+	    <first_name>Sean</first_name>
+	    <last_name>Connery</last_name>
+	    <birth_date>1930</birth_date>
+	    <role>
+                       Mark R</role>
+	</actor>
+	<actor  id='95' >
+	    <first_name>Tippi</first_name>
+	    <last_name>Hedren</last_name>
+	    <birth_date>1931</birth_date>
+	    <role>Marnie Edgar</role>
+	</actor>
+
+  </movie>

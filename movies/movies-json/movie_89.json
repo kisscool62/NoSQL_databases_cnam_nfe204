@@ -1,0 +1,58 @@
+{
+"_id": "movie:89",
+"title": "The Dark Knight",
+"year": 2008,
+"genre": "Science-fiction",
+"summary": "Dans ce nouveau volet, Batman augmente les mises dans sa guerre contre le crime. Avec l'appui du lieutenant de police Jim Gordon et du procureur de Gotham, Harvey Dent, Batman vise à éradiquer le crime organisé qui pullule dans la ville. Leur association est très efficace mais elle sera bientôt bouleversée par le chaos déclenché par un criminel extraordinaire que les citoyens de Gotham connaissent sous le last_name de Joker. ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:266",
+	"last_name": "Nolan",
+	"first_name": "Christopher",
+	"birth_date": "1970"	
+	},
+"actors": [
+	{
+	"_id": "artist:22",
+	"first_name": "Morgan",
+	"last_name": "Freeman",
+	"birth_date": "1937",
+	"role": "Lucius Fox"	
+	},
+	{
+	"_id": "artist:116",
+	"first_name": "Gary",
+	"last_name": "Oldman",
+	"birth_date": "1958",
+	"role": "Gordon"	
+	},
+	{
+	"_id": "artist:269",
+	"first_name": "Michael",
+	"last_name": "Caine",
+	"birth_date": "1933",
+	"role": "Alfred"	
+	},
+	{
+	"_id": "artist:274",
+	"first_name": "Christian",
+	"last_name": "Bale",
+	"birth_date": "1974",
+	"role": "Bruce Wayne / Batman"	
+	},
+	{
+	"_id": "artist:276",
+	"first_name": "Heath",
+	"last_name": "Ledger",
+	"birth_date": "1979",
+	"role": "Joker"	
+	},
+	{
+	"_id": "artist:277",
+	"first_name": "Maggie",
+	"last_name": "Gyllenhaal",
+	"birth_date": "1977",
+	"role": "Rachel"	
+	}
+	]
+}

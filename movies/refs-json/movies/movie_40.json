@@ -1,0 +1,14 @@
+{
+    "_id": "movie:40",
+    "title": "Fenêtre sur cour",
+    "year": "1954",
+    "genre": "Suspense",
+    "summary": "En repos forcé à cause d'une jambe plâtrée, le reporter L.B. Jefferies observe au téléobjectif les voisins de l'immeuble d'en face. C'est ainsi qu'il remarque le curieux manège d'un représentant de commerce, M. Thorwald, qu'il soupconne très vite d'avoir assassiné sa femme... ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:3"	
+	},
+    "actors": [
+
+	]
+}

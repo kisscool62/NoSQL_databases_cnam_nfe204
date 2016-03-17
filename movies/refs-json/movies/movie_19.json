@@ -1,0 +1,17 @@
+{
+    "_id": "movie:19",
+    "title": "Terminator",
+    "year": "1984",
+    "genre": "Science-fiction",
+    "summary": "Deux creatures venues du futur debarquent sur terre. L'une d'entre elles, le Terminator, doit eliminer une certaine Sarah Connor, qui doit enfanter celui qui sera le chef d'un groupe de resistants. L'autre, Kyle Reese, est charge par les rebelles de defendre Sarah... ",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:6"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:44",
+	    "role": "Terminator"	
+	}
+	]
+}

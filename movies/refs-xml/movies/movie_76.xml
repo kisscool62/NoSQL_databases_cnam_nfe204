@@ -1,0 +1,20 @@
+  <movie>
+    <title>No country for old men</title>
+    <year>2007</year>
+    <genre>crime</genre>
+    <summary>A la frontière qui sépare le Texas du Mexique, les trafiquants de drogue ont depuis longtemps remplacé les voleurs de bétail. Lorsque Llewelyn Moss tombe sur une camionnette abandonnée, cernée de cadavres ensanglantés, il ne sait rien de ce qui a conduit à ce drame. Et quand il prend les deux millions de dollars qu'il découvre à l'intérieur du véhicule, il n'a pas la moindre idée de ce que cela va provoquer...
+	Moss a déclenché une réaction en chaîne d'une violence inouïe que le shérif Bell, un homme vieillissant et sans illusions, ne parviendra pas à contenir... </summary>
+    <country>USA</country>
+	<director  id='251' >
+	</director>
+	<actor  id='250' >
+	    <role>Anton Chigurh</role>
+	</actor>
+	<actor  id='252' >
+	    <role>Ed Tom Bell</role>
+	</actor>
+	<actor  id='253' >
+	    <role>Llewelyn Moss</role>
+	</actor>
+
+  </movie>

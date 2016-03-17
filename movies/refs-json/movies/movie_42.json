@@ -1,0 +1,32 @@
+{
+    "_id": "movie:42",
+    "title": "Jeanne d'Arc",
+    "year": "1999",
+    "genre": "Guerre",
+    "country": "FR",
+    "director": 	{
+	    "_id": "artist:111"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:80",
+	
+	},
+	{
+	    "_id": "artist:112",
+	    "role": "Jeanne d'Arc"	
+	},
+	{
+	    "_id": "artist:113",
+	    "role": "Yolande d'Aragon"	
+	},
+	{
+	    "_id": "artist:114",
+	    "role": "Charles VII"	
+	},
+	{
+	    "_id": "artist:115",
+	    "role": "Dunois"	
+	}
+	]
+}

@@ -1,0 +1,17 @@
+  <movie>
+    <title>Shining</title>
+    <year>1980</year>
+    <genre>Horreur</genre>
+    <summary>Jack Torrance s'installe avec sa femme et son fils Danny dans un hôtel fermé à la morte saison afin d'écrire
+	 un roman. Il apprend que le gardien précédent a tué sa femme et ses deux filles avant de se suicider. Très
+	 vite, Jack va s'apercevoir que des choses étranges se passent autour de lui et que son fils a des pouvoirs
+	 extrasensoriels... </summary>
+    <country>FR</country>
+    <version>1</version>
+	<director  id='101' >
+	</director>
+	<actor  id='103' >
+	    <role>Jack Torrance</role>
+	</actor>
+
+  </movie>

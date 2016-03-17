@@ -1,0 +1,21 @@
+{
+    "_id": "movie:59",
+    "title": "Sixième sens",
+    "year": "1999",
+    "genre": "Fantastique",
+    "summary": "Cole Sear, garconnet de huit ans est hanté par un terrible secret. Son imaginaire est visité par des esprits menacants. Trop jeune pour comprendre le pourquoi de ces apparitions et traumatisé par ces pouvoirs paranormaux, Cole s'enferme dans une peur maladive et ne veut reveler à personne la cause de son enfermement, à l'exception d'un psychologue pour enfants. La recherche d'une explication rationnelle guidera l'enfant et le thérapeute vers une vérité foudroyante et inexplicable.",
+    "country": "USA",
+    "director": 	{
+	    "_id": "artist:170"	
+	},
+    "actors": [
+	{
+	    "_id": "artist:27",
+	    "role": "Malcom Crowe"	
+	},
+	{
+	    "_id": "artist:171",
+	    "role": "Cole Sear"	
+	}
+	]
+}

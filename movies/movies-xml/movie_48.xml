@@ -1,0 +1,50 @@
+  <movie>
+    <title>King of New York</title>
+    <year>1990</year>
+    <genre>drama</genre>
+    <summary>L'histoire d'un gangster au grand coeur mais aux méthodes définitives, surlast_namemé par le presse The King of New York et qui rêve de fonder un hôpital, confronté a des policiers opiniâtres qui ont juré de l'abattre...</summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='122' >
+	    <last_name>Ferrara</last_name>
+	    <first_name>Abel</first_name>
+	    <birth_date>1951</birth_date>
+	</director>
+	<actor  id='63' >
+	    <first_name>Laurence</first_name>
+	    <last_name>Fishburne</last_name>
+	    <birth_date>1961</birth_date>
+	    <role>Jimmy Jump</role>
+	</actor>
+	<actor  id='97' >
+	    <first_name>Christopher</first_name>
+	    <last_name>Walken</last_name>
+	    <birth_date>1943</birth_date>
+	    <role>Frank White</role>
+	</actor>
+	<actor  id='124' >
+	    <first_name>Wesley</first_name>
+	    <last_name>Snipes</last_name>
+	    <birth_date>1962</birth_date>
+	    <role>Thomas Flanigan</role>
+	</actor>
+	<actor  id='131' >
+	    <first_name>Matthieu</first_name>
+	    <last_name>Kassowitz</last_name>
+	    <birth_date>1967</birth_date>
+	    <role>Dennis Gilley</role>
+	</actor>
+	<actor  id='132' >
+	    <first_name>Vincent</first_name>
+	    <last_name>Cassel</last_name>
+	    <birth_date>1966</birth_date>
+	    <role>Thomas Flanigan</role>
+	</actor>
+	<actor  id='217' >
+	    <first_name>Steve</first_name>
+	    <last_name>Buscemi</last_name>
+	    <birth_date>1957</birth_date>
+	    <role>Test tube</role>
+	</actor>
+
+  </movie>

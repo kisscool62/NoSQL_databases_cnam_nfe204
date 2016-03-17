@@ -1,0 +1,29 @@
+  <movie>
+    <title>Blade Runner</title>
+    <year>1982</year>
+    <genre>Action</genre>
+    <summary>En 2019, lors de la décadence de Los Angeles, des êtres synthétiques, sans pensée, sans
+	 émotions, suffisent aux différents travaux d'entretien. Leur durée de vie n'excède pas 4 années.
+	 Un jour, ces ombres humaines se révoltent et on charge les tueurs, appelés Blade Runner, de
+	 les abattre... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='4' >
+	    <last_name>Scott</last_name>
+	    <first_name>Ridley</first_name>
+	    <birth_date>1937</birth_date>
+	</director>
+	<actor  id='24' >
+	    <first_name>Harrison</first_name>
+	    <last_name>Ford</last_name>
+	    <birth_date>1942</birth_date>
+	    <role>Deckard</role>
+	</actor>
+	<actor  id='25' >
+	    <first_name>Rutger</first_name>
+	    <last_name>Hauer</last_name>
+	    <birth_date>1944</birth_date>
+	    <role>Batty</role>
+	</actor>
+
+  </movie>

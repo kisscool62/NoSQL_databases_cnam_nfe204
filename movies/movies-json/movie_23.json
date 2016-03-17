@@ -1,0 +1,30 @@
+{
+"_id": "movie:23",
+"title": "Matrix",
+"year": 1999,
+"genre": "Science-fiction",
+"summary": "Dans un monde où tout ce qui semble réel est en fait élaboré par l'univers électronique baptisé la Matrice, Néo, un programmeur, est contacté par un certain Morpheus. D'après lui, Néo serait le Libérateur tant attendu, le seul capable de mettre en échec l'omnipotence de la Matrice et rendre ses droits à la réalité... ",
+"country": "USA",
+"director": 	{
+	"_id": "artist:61",
+	"last_name": "Wachowski",
+	"first_name": "Andy",
+	"birth_date": "1967"	
+	},
+"actors": [
+	{
+	"_id": "artist:62",
+	"first_name": "Keanu",
+	"last_name": "Reeves",
+	"birth_date": "1964",
+	"role": "Neo"	
+	},
+	{
+	"_id": "artist:63",
+	"first_name": "Laurence",
+	"last_name": "Fishburne",
+	"birth_date": "1961",
+	"role": "Morpheus"	
+	}
+	]
+}

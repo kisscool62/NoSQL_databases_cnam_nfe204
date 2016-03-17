@@ -1,0 +1,20 @@
+  <movie>
+    <title>Matrix</title>
+    <year>1999</year>
+    <genre>Science-fiction</genre>
+    <summary>Dans un monde où tout ce qui semble réel est en fait élaboré par l'univers électronique baptisé
+	 la Matrice, Néo, un programmeur, est contacté par un certain Morpheus. D'après lui, Néo
+	 serait le Libérateur tant attendu, le seul capable de mettre en échec l'omnipotence de la
+	 Matrice et rendre ses droits à la réalité... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='61' >
+	</director>
+	<actor  id='62' >
+	    <role>Neo</role>
+	</actor>
+	<actor  id='63' >
+	    <role>Morpheus</role>
+	</actor>
+
+  </movie>

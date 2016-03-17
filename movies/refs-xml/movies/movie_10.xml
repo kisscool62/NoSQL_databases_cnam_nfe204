@@ -1,0 +1,20 @@
+  <movie>
+    <title>Blade Runner</title>
+    <year>1982</year>
+    <genre>Action</genre>
+    <summary>En 2019, lors de la décadence de Los Angeles, des êtres synthétiques, sans pensée, sans
+	 émotions, suffisent aux différents travaux d'entretien. Leur durée de vie n'excède pas 4 années.
+	 Un jour, ces ombres humaines se révoltent et on charge les tueurs, appelés Blade Runner, de
+	 les abattre... </summary>
+    <country>USA</country>
+    <version>1</version>
+	<director  id='4' >
+	</director>
+	<actor  id='24' >
+	    <role>Deckard</role>
+	</actor>
+	<actor  id='25' >
+	    <role>Batty</role>
+	</actor>
+
+  </movie>
